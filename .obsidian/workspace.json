@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Hopps.md",
+                "file": "Entidades/Johnathan Hopkins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hopps"
+              "title": "Johnathan Hopkins"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Judy.md",
+                "file": "Entidades/Alcott Golda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judy"
+              "title": "Alcott Golda"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entidades/Judy.md",
+                "file": "Entidades/Alcott Golda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Judy"
+              "title": "Backlinks for Alcott Golda"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entidades/Judy.md",
+                "file": "Entidades/Alcott Golda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Judy"
+              "title": "Outgoing links from Alcott Golda"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Judy.md"
+                "file": "Entidades/Alcott Golda.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Judy"
+              "title": "Outline of Alcott Golda"
             }
           }
         ]
@@ -194,19 +194,34 @@
   },
   "active": "73adff6d6bf9ca21",
   "lastOpenFiles": [
-    "Imagens/Entidades/Judy/judy-full-1.png",
-    "Entidades/Judy.md",
-    "Imagens/Entidades/Judy/judy-portrait-2.png",
-    "Imagens/Entidades/Judy",
+    "Entidades/Untitled.md",
+    "Untitled.md",
+    "Entidades/Alcott Golda.md",
+    "Imagens/Entidades/Alcott Golda/Alcott-portrait-1.png",
+    "Imagens/Entidades/Alcott Golda",
+    "Entidades/Hazel Merkov.md",
+    "Imagens/Untitled",
+    "Imagens/Entidades/Hazel Merkov/hazel-portrait-1.png",
+    "Imagens/Entidades/Hazel Merkov",
+    "Entidades/Hans Hopkins.md",
+    "Imagens/Entidades/Hans Hopkins/hans-portrait-1.png",
+    "Imagens/Entidades/Hans Hopkins",
+    "Entidades/Hopkins Inovações.md",
+    "Entidades/Johnathan Hopkins.md",
+    "Entidades/Judy Hansworth.md",
+    "Imagens/Entidades/Hopkins Inovações/hopkins-inovacoes-logo.png",
+    "Imagens/Entidades/Hopkins Inovações",
+    "Imagens/Entidades/Johnathan Hopkins",
+    "Imagens/Entidades/Johnathan Hopkins/Hopps-full-1.png",
+    "Imagens/Entidades/Judy Hansworth/judy-child-portrait-1.png",
+    "Imagens/Entidades/Judy Hansworth/judy-full-1.png",
+    "Imagens/Entidades/Judy Hansworth/judy-portrait-2.png",
+    "Imagens/Entidades/Judy Hansworth",
     "Imagens/Entidades",
     "Imagens",
-    "Imagens/Entidades/Judy/judy-full-3.png",
-    "Imagens/Entidades/Judy/judy-portrait-1.jpg",
-    "Imagens/Entidades/Judy/judy-full-2.png",
+    "Imagens/Entidades/Judy Hansworth/judy-full-3.png",
+    "Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
     "Histórias",
-    "Cidades",
-    "Entidades/Hopps.md",
-    "README.md",
-    "Entidades"
+    "README.md"
   ]
 }
