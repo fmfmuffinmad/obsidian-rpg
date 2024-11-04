@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Alcott Golda"
             }
+          },
+          {
+            "id": "51a31e8cae0cf8d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,12 +86,22 @@
             }
           },
           {
+            "id": "998d33354fbf2225",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "2ee25f5c6a419094",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Grupo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,16 +110,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "998d33354fbf2225",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entidades/Alcott Golda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alcott Golda"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,12 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entidades/Alcott Golda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alcott Golda"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,19 +175,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Entidades/Alcott Golda.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Alcott Golda"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "af900123712cd8ca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,36 +208,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73adff6d6bf9ca21",
+  "active": "a115867217f52994",
   "lastOpenFiles": [
-    "Entidades/Untitled.md",
-    "Untitled.md",
+    "Locais/Mansão dos Hopkins.md",
+    "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
+    "Locais/Cidade do Hopps.md",
+    "Entidades/Agulhas Carmesim.md",
     "Entidades/Alcott Golda.md",
-    "Imagens/Entidades/Alcott Golda/Alcott-portrait-1.png",
-    "Imagens/Entidades/Alcott Golda",
-    "Entidades/Hazel Merkov.md",
-    "Imagens/Untitled",
-    "Imagens/Entidades/Hazel Merkov/hazel-portrait-1.png",
-    "Imagens/Entidades/Hazel Merkov",
+    "Entidades/Barril.md",
+    "Entidades/Capitã Celaeno.md",
+    "Entidades/Olho Cinza.md",
+    "Entidades/Madeleine Hansworth.md",
+    "Entidades/Confraria da Mão Negra.md",
+    "Entidades/Corta Corais.md",
+    "Entidades/Dr. Dorset.md",
+    "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Hans Hopkins.md",
-    "Imagens/Entidades/Hans Hopkins/hans-portrait-1.png",
-    "Imagens/Entidades/Hans Hopkins",
+    "Entidades/Hazel Merkov.md",
     "Entidades/Hopkins Inovações.md",
     "Entidades/Johnathan Hopkins.md",
     "Entidades/Judy Hansworth.md",
-    "Imagens/Entidades/Hopkins Inovações/hopkins-inovacoes-logo.png",
-    "Imagens/Entidades/Hopkins Inovações",
-    "Imagens/Entidades/Johnathan Hopkins",
-    "Imagens/Entidades/Johnathan Hopkins/Hopps-full-1.png",
-    "Imagens/Entidades/Judy Hansworth/judy-child-portrait-1.png",
-    "Imagens/Entidades/Judy Hansworth/judy-full-1.png",
-    "Imagens/Entidades/Judy Hansworth/judy-portrait-2.png",
-    "Imagens/Entidades/Judy Hansworth",
-    "Imagens/Entidades",
-    "Imagens",
-    "Imagens/Entidades/Judy Hansworth/judy-full-3.png",
-    "Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
-    "Histórias",
-    "README.md"
+    "Entidades/Locke Ironhart.md",
+    "Entidades/Pérola.md",
+    "Midia/Imagens/Entidades/corta-corais.png",
+    "Midia/Imagens/Locais/vista-do-porto-2.png",
+    "Midia/Imagens/Locais",
+    "Midia/Imagens/Locais/praca-das-flores.png",
+    "Midia/Imagens/Locais/centro-cidade-1.png",
+    "Midia/Imagens/Locais/vista-do-porto-1.png",
+    "Midia/Imagens/Locais/vielas-cidade.png",
+    "Midia/Imagens/Locais/casa-hopps-01.png",
+    "Midia/Imagens/Locais/escola-ciencias-1.png",
+    "Midia/Imagens/Entidades/agulhas-carmesim-icon-1.png",
+    "Midia/Imagens/Entidades/espadas-da-lua-negra-icon-1.png",
+    "Midia/Imagens/Entidades/Olho Cinza",
+    "README.md",
+    "Midia",
+    "Midia/Imagens/Entidades/Barril",
+    "Midia/Imagens/Entidades/Capitã Celaeno",
+    "Midia/Imagens/Entidades/Pérola",
+    "Untitled.canvas",
+    "Midia/Imagens/Entidades/Madeleine Hansworth",
+    "Midia/Imagens/Entidades/Dr. Dorset",
+    "Midia/Imagens/Entidades/Locke Ironhart",
+    "Midia/Imagens/Entidades/Alcott Golda"
   ]
 }

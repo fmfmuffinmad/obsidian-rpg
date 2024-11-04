@@ -1,4 +1,4 @@
-#todo/characters/description adicionar descrição da judy
+Tags: #todo/characters/description #Grupo/Espadas-Lua-Negra #Grupo/Agulhas-Carmesim 
 # Sobre Judy
 
 * Vem de uma família de aristocratas/ricos, mas não gosta da alta sociedade;
@@ -25,4 +25,5 @@ Judy quando...
 Judy quando...
 ![[judy-full-3.png]]
 
-Judy quando...![[judy-child-portrait-1.png]]
+Judy quando...
+![[judy-child-portrait-1.png]]

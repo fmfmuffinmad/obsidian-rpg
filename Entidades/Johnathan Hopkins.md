@@ -1,4 +1,4 @@
-#todo/characters/description descrever hopps
+Tags: #todo/characters/description #Grupo/Hopkins-Inovações
 # Imagens
 
 ## Foto ícone
