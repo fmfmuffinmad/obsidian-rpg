@@ -1,1 +1,0 @@
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeL6mvb__0vpWUYKpOs3v1NyjLPfm6EqaGNMj10lyYseNrfeE_D-aNmvBATif94rl9sMPiOnV2zPntNEC9OnHnIOsLDVm_y7hBO8HkXKYP7XTH4hT66HKOAXv7ZYADi9abF9ls1zsYLKFu0kcic8KCeGHU?key=iOEf7i4Jvh9fZebBZtiIFA)**

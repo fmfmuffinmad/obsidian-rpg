@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Hopps.md",
+                "file": "Entidades/Hopps.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Judy.md",
+                "file": "Entidades/Judy.md",
                 "mode": "source",
                 "source": false
               },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Judy.md",
+                "file": "Entidades/Judy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Judy.md",
+                "file": "Entidades/Judy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Judy.md"
+                "file": "Entidades/Judy.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Judy"
@@ -192,13 +192,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a115867217f52994",
+  "active": "73adff6d6bf9ca21",
   "lastOpenFiles": [
+    "Imagens/Entidades/Judy/judy-full-1.png",
+    "Entidades/Judy.md",
+    "Imagens/Entidades/Judy/judy-portrait-2.png",
+    "Imagens/Entidades/Judy",
+    "Imagens/Entidades",
+    "Imagens",
+    "Imagens/Entidades/Judy/judy-full-3.png",
+    "Imagens/Entidades/Judy/judy-portrait-1.jpg",
+    "Imagens/Entidades/Judy/judy-full-2.png",
     "Histórias",
     "Cidades",
-    "Personagens/Hopps.md",
-    "Personagens/Judy.md",
+    "Entidades/Hopps.md",
     "README.md",
-    "Personagens"
+    "Entidades"
   ]
 }
