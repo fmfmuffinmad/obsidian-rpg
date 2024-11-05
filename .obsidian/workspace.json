@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Thorian Thundervoice.md",
+                "file": "Entidades/Uplan'Rue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thorian Thundervoice"
+              "title": "Uplan'Rue"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entidades/Thorian Thundervoice.md",
+                "file": "Entidades/Uplan'Rue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thorian Thundervoice"
+              "title": "Backlinks for Uplan'Rue"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entidades/Thorian Thundervoice.md",
+                "file": "Entidades/Uplan'Rue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thorian Thundervoice"
+              "title": "Outgoing links from Uplan'Rue"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Thorian Thundervoice.md"
+                "file": "Entidades/Uplan'Rue.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thorian Thundervoice"
+              "title": "Outline of Uplan'Rue"
             }
           },
           {
@@ -173,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a115867217f52994",
+  "active": "e0e47ffffc7d07b9",
   "lastOpenFiles": [
+    "Entidades/Thorian Thundervoice.md",
+    "Entidades/Uplan'Rue.md",
     "Entidades/Pérola.md",
     "Entidades/Confraria da Mão Negra.md",
-    "Entidades/Thorian Thundervoice.md",
     "Entidades/Hazel Merkov.md",
     "Entidades/Hopkins Inovações.md",
     "Entidades/Johnathan Hopkins.md",
