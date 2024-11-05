@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Uplan'Rue.md",
+                "file": "Entidades/Tempo e calendário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uplan'Rue"
+              "title": "Tempo e calendário"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entidades/Uplan'Rue.md",
+                "file": "Entidades/Tempo e calendário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uplan'Rue"
+              "title": "Backlinks for Tempo e calendário"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entidades/Uplan'Rue.md",
+                "file": "Entidades/Tempo e calendário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uplan'Rue"
+              "title": "Outgoing links from Tempo e calendário"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Uplan'Rue.md"
+                "file": "Entidades/Tempo e calendário.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Uplan'Rue"
+              "title": "Outline of Tempo e calendário"
             }
           },
           {
@@ -175,8 +175,9 @@
   },
   "active": "e0e47ffffc7d07b9",
   "lastOpenFiles": [
-    "Entidades/Thorian Thundervoice.md",
     "Entidades/Uplan'Rue.md",
+    "Entidades/Tempo e calendário.md",
+    "Entidades/Thorian Thundervoice.md",
     "Entidades/Pérola.md",
     "Entidades/Confraria da Mão Negra.md",
     "Entidades/Hazel Merkov.md",
