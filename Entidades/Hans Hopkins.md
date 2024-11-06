@@ -7,4 +7,4 @@ Faz parte do conselho de Ravaryn (participa)
 # Imagens
 
 Foto de perfil
-![[hans-portrait-1.png]]
+]]![[hans-portrait-02.png]]
