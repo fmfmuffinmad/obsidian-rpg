@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Tempo e calendário.md",
+                "file": "Entidades/Corta Corais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tempo e calendário"
+              "title": "Corta Corais"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entidades/Tempo e calendário.md",
+                "file": "Entidades/Corta Corais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tempo e calendário"
+              "title": "Backlinks for Corta Corais"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entidades/Tempo e calendário.md",
+                "file": "Entidades/Corta Corais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tempo e calendário"
+              "title": "Outgoing links from Corta Corais"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Tempo e calendário.md"
+                "file": "Entidades/Corta Corais.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tempo e calendário"
+              "title": "Outline of Corta Corais"
             }
           },
           {
@@ -175,14 +175,18 @@
   },
   "active": "e0e47ffffc7d07b9",
   "lastOpenFiles": [
-    "Entidades/Uplan'Rue.md",
+    "Entidades/Confraria da Mão Negra.md",
+    "Entidades/Corta Corais.md",
+    "Entidades/Dr. Dorset.md",
+    "Entidades/Johnathan Hopkins.md",
+    "Entidades/Judy Hansworth.md",
+    "Entidades/Olho Cinza.md",
     "Entidades/Tempo e calendário.md",
+    "Entidades/Uplan'Rue.md",
     "Entidades/Thorian Thundervoice.md",
     "Entidades/Pérola.md",
-    "Entidades/Confraria da Mão Negra.md",
     "Entidades/Hazel Merkov.md",
     "Entidades/Hopkins Inovações.md",
-    "Entidades/Johnathan Hopkins.md",
     "Locais/Mansão dos Hopkins.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
     "Locais/Cidade do Hopps.md",
@@ -190,13 +194,9 @@
     "Entidades/Alcott Golda.md",
     "Entidades/Barril.md",
     "Entidades/Capitã Celaeno.md",
-    "Entidades/Olho Cinza.md",
     "Entidades/Madeleine Hansworth.md",
-    "Entidades/Corta Corais.md",
-    "Entidades/Dr. Dorset.md",
     "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Hans Hopkins.md",
-    "Entidades/Judy Hansworth.md",
     "Entidades/Locke Ironhart.md",
     "Midia/Imagens/Entidades/corta-corais.png",
     "Midia/Imagens/Locais/vista-do-porto-2.png",
