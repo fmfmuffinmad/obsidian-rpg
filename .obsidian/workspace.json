@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Thorian Thundervoice"
             }
+          },
+          {
+            "id": "52c1f9e33e6ad1f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0e47ffffc7d07b9",
+  "active": "52c1f9e33e6ad1f1",
   "lastOpenFiles": [
     "Entidades/Tempo e calendário.md",
     "Entidades/Olho Cinza.md",
