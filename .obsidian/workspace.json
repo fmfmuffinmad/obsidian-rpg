@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Hopkins Corp.md",
+                "file": "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hopkins Corp"
+              "title": "Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'"
+            }
+          },
+          {
+            "id": "c57906bbebf9440d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c1f9e33e6ad1f1",
+  "active": "c57906bbebf9440d",
   "lastOpenFiles": [
+    "Entidades/Hopkins Corp.md",
     "Locais/Ravaryn.md",
     "Untitled.md",
     "Locais/Uplan'Rue.md",
@@ -209,7 +222,6 @@
     "Entidades/Johnathan Hopkins.md",
     "Entidades/Thorian Thundervoice.md",
     "Entidades/Pérola.md",
-    "Entidades/Hopkins Corp.md",
     "Locais/Mansão dos Hopkins.md",
     "Entidades/Alcott Golda.md",
     "Entidades/Barril.md",
