@@ -39,16 +39,30 @@
             "id": "c57906bbebf9440d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.6"
+                "file": "Entidades/Confraria da Mão Negra.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Confraria da Mão Negra"
+            }
+          },
+          {
+            "id": "7d65d102945948ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,9 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c57906bbebf9440d",
+  "active": "7d65d102945948ac",
   "lastOpenFiles": [
     "Entidades/Hopkins Corp.md",
+    "Entidades/Johnathan Hopkins.md",
+    "Entidades/Judy Hansworth.md",
     "Locais/Ravaryn.md",
     "Untitled.md",
     "Locais/Uplan'Rue.md",
@@ -215,11 +231,9 @@
     "Entidades/Olho Cinza.md",
     "Entidades/Hans Hopkins.md",
     "Midia/Imagens/Entidades/Hans Hopkins/hans-portrait-02.png",
-    "Entidades/Judy Hansworth.md",
     "Entidades/Corta Corais.md",
     "Entidades/Confraria da Mão Negra.md",
     "Entidades/Dr. Dorset.md",
-    "Entidades/Johnathan Hopkins.md",
     "Entidades/Thorian Thundervoice.md",
     "Entidades/Pérola.md",
     "Locais/Mansão dos Hopkins.md",
