@@ -53,12 +53,12 @@
             "id": "7d65d102945948ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "icon": "lucide-image",
+              "title": "judy-portrait-1"
             }
           }
         ],
@@ -216,15 +216,19 @@
   },
   "active": "7d65d102945948ac",
   "lastOpenFiles": [
-    "Entidades/Hopkins Corp.md",
-    "Entidades/Johnathan Hopkins.md",
+    "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
+    "Midia/Imagens/Entidades/Judy Hansworth/judy-full-1.png",
+    "Midia/Imagens/Entidades/Judy Hansworth/judy-child-portrait-1.png",
     "Entidades/Judy Hansworth.md",
+    "Entidades/Capitã Celaeno.md",
+    "Entidades/Johnathan Hopkins.md",
+    "Entidades/Hopkins Corp.md",
+    "Entidades/Hazel Merkov.md",
     "Locais/Ravaryn.md",
     "Untitled.md",
     "Locais/Uplan'Rue.md",
     "Entidades/Uplan'Rue.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
-    "Entidades/Hazel Merkov.md",
     "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Agulhas Carmesim.md",
     "Entidades/Tempo e calendário.md",
@@ -239,7 +243,6 @@
     "Locais/Mansão dos Hopkins.md",
     "Entidades/Alcott Golda.md",
     "Entidades/Barril.md",
-    "Entidades/Capitã Celaeno.md",
     "Entidades/Madeleine Hansworth.md",
     "Entidades/Locke Ironhart.md",
     "Midia/Imagens/Entidades/corta-corais.png",
@@ -250,10 +253,7 @@
     "Midia/Imagens/Locais/vista-do-porto-1.png",
     "Midia/Imagens/Locais/vielas-cidade.png",
     "Midia/Imagens/Locais/casa-hopps-01.png",
-    "Midia/Imagens/Locais/escola-ciencias-1.png",
-    "Midia/Imagens/Entidades/agulhas-carmesim-icon-1.png",
     "Midia/Imagens/Entidades/Olho Cinza",
-    "README.md",
     "Midia",
     "Midia/Imagens/Entidades/Barril",
     "Midia/Imagens/Entidades/Capitã Celaeno",
