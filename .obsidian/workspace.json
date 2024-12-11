@@ -53,12 +53,14 @@
             "id": "7d65d102945948ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg"
+                "file": "Entidades/Confraria da Mão Negra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "judy-portrait-1"
+              "icon": "lucide-file",
+              "title": "Confraria da Mão Negra"
             }
           }
         ],
@@ -216,6 +218,7 @@
   },
   "active": "7d65d102945948ac",
   "lastOpenFiles": [
+    "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-1.png",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-child-portrait-1.png",
@@ -252,7 +255,6 @@
     "Midia/Imagens/Locais/centro-cidade-1.png",
     "Midia/Imagens/Locais/vista-do-porto-1.png",
     "Midia/Imagens/Locais/vielas-cidade.png",
-    "Midia/Imagens/Locais/casa-hopps-01.png",
     "Midia/Imagens/Entidades/Olho Cinza",
     "Midia",
     "Midia/Imagens/Entidades/Barril",
