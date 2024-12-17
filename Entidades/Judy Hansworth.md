@@ -4,6 +4,7 @@ Tags: #todo/characters/description #Grupo/Espadas-Lua-Negra #Grupo/Agulhas-Carme
 * Vem de uma família de aristocratas/ricos, mas não gosta da alta sociedade;
 * Puxou a mãe, que era campeã de esgrima/luta de espadas e uma das líderes da guilda das Espadas da Lua Negra. Pratica luta com espadas desde pequena, mas também demonstra talento para magia.
 * Tem uma paixão por Hopps, que reprime por medo de ser rejeitada e perder a amizade do seu melhor amigo;
+* Judy é uma espécie de prodígio. Ótima com artes marciais e magia
 
 # Imagens
 
