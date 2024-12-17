@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Thorian Thundervoice.md"
+                "file": "Entidades/Confraria da Mão Negra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thorian Thundervoice"
+              "title": "Outline of Confraria da Mão Negra"
             }
           },
           {
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d65d102945948ac",
+  "active": "e670700a24fffcf9",
   "lastOpenFiles": [
     "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
