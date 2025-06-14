@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Judy Hansworth.md",
+                "file": "Entidades/Confraria da Mão Negra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judy Hansworth"
+              "title": "Confraria da Mão Negra"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Judy Hansworth.md"
+                "file": "Entidades/Confraria da Mão Negra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Judy Hansworth"
+              "title": "Outline of Confraria da Mão Negra"
             }
           },
           {
@@ -232,6 +232,15 @@
   },
   "active": "4eb6d49933cce855",
   "lastOpenFiles": [
+    "Entidades/Guilda das Espadas da Lua Negra.md",
+    "Entidades/Agulhas Carmesim.md",
+    "Entidades/Locke Ironhart.md",
+    "Entidades/Madeleine Hansworth.md",
+    "Entidades/Olho Cinza.md",
+    "Entidades/Pérola.md",
+    "Entidades/Tempo e calendário.md",
+    "Entidades/Uplan'Rue.md",
+    "Entidades/Judy Hansworth.md",
     "Notes/2024-12-17.md",
     "Entidades/Confraria da Mão Negra.md",
     "Notes",
@@ -239,30 +248,21 @@
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-1.png",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-child-portrait-1.png",
-    "Entidades/Judy Hansworth.md",
     "Entidades/Capitã Celaeno.md",
     "Entidades/Johnathan Hopkins.md",
     "Entidades/Hopkins Corp.md",
     "Entidades/Hazel Merkov.md",
     "Locais/Ravaryn.md",
     "Locais/Uplan'Rue.md",
-    "Entidades/Uplan'Rue.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
-    "Entidades/Guilda das Espadas da Lua Negra.md",
-    "Entidades/Agulhas Carmesim.md",
-    "Entidades/Tempo e calendário.md",
-    "Entidades/Olho Cinza.md",
     "Entidades/Hans Hopkins.md",
     "Midia/Imagens/Entidades/Hans Hopkins/hans-portrait-02.png",
     "Entidades/Corta Corais.md",
     "Entidades/Dr. Dorset.md",
     "Entidades/Thorian Thundervoice.md",
-    "Entidades/Pérola.md",
     "Locais/Mansão dos Hopkins.md",
     "Entidades/Alcott Golda.md",
     "Entidades/Barril.md",
-    "Entidades/Madeleine Hansworth.md",
-    "Entidades/Locke Ironhart.md",
     "Midia/Imagens/Entidades/corta-corais.png",
     "Midia/Imagens/Locais/vista-do-porto-2.png",
     "Midia/Imagens/Locais",
