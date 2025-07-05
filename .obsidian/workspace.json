@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "9bd59230121ba3c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -210,10 +223,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -244,10 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061a1f19966c8d50",
+  "active": "9bd59230121ba3c6",
   "lastOpenFiles": [
-    "Entidades/Barril.md",
+    "Entidades/Hazel Merkov.md",
     "Untitled.md",
+    "Entidades/Barril.md",
     "Entidades/Thorian Thundervoice.md",
     "Entidades/Tempo e calendário.md",
     "Entidades/Pérola.md",
@@ -270,7 +286,6 @@
     "Entidades/Capitã Celaeno.md",
     "Entidades/Johnathan Hopkins.md",
     "Entidades/Hopkins Corp.md",
-    "Entidades/Hazel Merkov.md",
     "Locais/Ravaryn.md",
     "Locais/Uplan'Rue.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
