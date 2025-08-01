@@ -83,28 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "9bd59230121ba3c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'"
             }
           },
           {
@@ -259,10 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bd59230121ba3c6",
+  "active": "061a1f19966c8d50",
   "lastOpenFiles": [
-    "Entidades/Hazel Merkov.md",
+    "Locais/Mansão dos Hopkins.md",
+    "Locais/Ravaryn.md",
+    "Locais/Uplan'Rue.md",
+    "Entidades/Uplan'Rue.md",
     "Untitled.md",
+    "Entidades/Hazel Merkov.md",
     "Entidades/Barril.md",
     "Entidades/Thorian Thundervoice.md",
     "Entidades/Tempo e calendário.md",
@@ -275,7 +268,6 @@
     "Entidades/Locke Ironhart.md",
     "Entidades/Madeleine Hansworth.md",
     "Entidades/Olho Cinza.md",
-    "Entidades/Uplan'Rue.md",
     "Entidades/Judy Hansworth.md",
     "Notes/2024-12-17.md",
     "Notes",
@@ -286,12 +278,9 @@
     "Entidades/Capitã Celaeno.md",
     "Entidades/Johnathan Hopkins.md",
     "Entidades/Hopkins Corp.md",
-    "Locais/Ravaryn.md",
-    "Locais/Uplan'Rue.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
     "Entidades/Hans Hopkins.md",
     "Midia/Imagens/Entidades/Hans Hopkins/hans-portrait-02.png",
-    "Locais/Mansão dos Hopkins.md",
     "Entidades/Alcott Golda.md",
     "Midia/Imagens/Entidades/corta-corais.png",
     "Midia/Imagens/Locais/vista-do-porto-2.png",
