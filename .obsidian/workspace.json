@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Confraria da Mão Negra.md",
+                "file": "Entidades/Thorian Thundervoice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confraria da Mão Negra"
+              "title": "Thorian Thundervoice"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Confraria da Mão Negra.md",
+                "file": "Entidades/Thorian Thundervoice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Confraria da Mão Negra"
+              "title": "Outline of Thorian Thundervoice"
             }
           },
           {
@@ -250,6 +250,7 @@
   },
   "active": "061a1f19966c8d50",
   "lastOpenFiles": [
+    "Entidades/Confraria da Mão Negra.md",
     "Entidades/Capitã Celaeno.md",
     "Entidades/Barril.md",
     "Entidades/Alcott Golda.md",
@@ -263,7 +264,6 @@
     "Entidades/Hopkins Corp.md",
     "Entidades/Hazel Merkov.md",
     "Entidades/Hans Hopkins.md",
-    "Entidades/Confraria da Mão Negra.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
     "Locais/Mansão dos Hopkins.md",
     "Locais/Ravaryn.md",
