@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Confraria da Mão Negra.md",
+                "file": "Entidades/Judy Hansworth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confraria da Mão Negra"
+              "title": "Judy Hansworth"
             }
           }
         ],
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Confraria da Mão Negra.md",
+                "file": "Entidades/Judy Hansworth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Confraria da Mão Negra"
+              "title": "Outline of Judy Hansworth"
             }
           },
           {
@@ -280,6 +280,8 @@
   },
   "active": "a00f281f063b9aff",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Entidades/Confraria da Mão Negra.md",
     "Entidades/Olho Cinza.md",
     "Entidades/Locke Ironhart.md",
     "Entidades/Hans Hopkins.md",
@@ -287,7 +289,6 @@
     "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Dr. Dorset.md",
     "Entidades/Corta Corais.md",
-    "Entidades/Confraria da Mão Negra.md",
     "Entidades/Capitã Celaeno.md",
     "Entidades/Alcott Golda.md",
     "Entidades/Agulhas Carmesim.md",
@@ -305,7 +306,6 @@
     "Entidades/Tempo e calendário.md",
     "Entidades/Madeleine Hansworth.md",
     "Entidades/Judy Hansworth.md",
-    "Notes/2024-12-17.md",
     "Notes",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
@@ -325,7 +325,6 @@
     "Midia/Imagens/Entidades/Pérola",
     "Untitled.canvas",
     "Midia/Imagens/Entidades/Madeleine Hansworth",
-    "Midia/Imagens/Entidades/Dr. Dorset",
-    "Midia/Imagens/Entidades/Locke Ironhart"
+    "Midia/Imagens/Entidades/Dr. Dorset"
   ]
 }
