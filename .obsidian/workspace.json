@@ -109,12 +109,14 @@
             "id": "a00f281f063b9aff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Entidades/Confraria da Mão Negra.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Confraria da Mão Negra"
             }
           }
         ],
@@ -160,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Caçapa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +173,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,12 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Entidades/Confraria da Mão Negra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Confraria da Mão Negra"
             }
           },
           {
@@ -276,22 +280,22 @@
   },
   "active": "a00f281f063b9aff",
   "lastOpenFiles": [
-    "Entidades/Thorian Thundervoice.md",
-    "Codex Mirabilis.md",
-    "Entidades/Confraria da Mão Negra.md",
-    "Entidades/Capitã Celaeno.md",
-    "Entidades/Barril.md",
-    "Entidades/Alcott Golda.md",
-    "Entidades/Agulhas Carmesim.md",
-    "Entidades/Pérola.md",
     "Entidades/Olho Cinza.md",
     "Entidades/Locke Ironhart.md",
+    "Entidades/Hans Hopkins.md",
+    "Entidades/Hopkins Corp.md",
+    "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Dr. Dorset.md",
     "Entidades/Corta Corais.md",
-    "Entidades/Guilda das Espadas da Lua Negra.md",
-    "Entidades/Hopkins Corp.md",
+    "Entidades/Confraria da Mão Negra.md",
+    "Entidades/Capitã Celaeno.md",
+    "Entidades/Alcott Golda.md",
+    "Entidades/Agulhas Carmesim.md",
+    "Entidades/Thorian Thundervoice.md",
+    "Codex Mirabilis.md",
+    "Entidades/Barril.md",
+    "Entidades/Pérola.md",
     "Entidades/Hazel Merkov.md",
-    "Entidades/Hans Hopkins.md",
     "Locais/Escola de Ciências e Desenvolvimento de 'NOME_DA_CIDADE'.md",
     "Locais/Mansão dos Hopkins.md",
     "Locais/Ravaryn.md",
