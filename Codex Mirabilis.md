@@ -9,3 +9,5 @@ Capítulo 1 - A descoberta
 Capítulo 2 - O Estudo
 
 ![[Pasted image 20251025134710.png]]
+
+Tem também um desenho de um barco nos céus com propulsores a base de mana
