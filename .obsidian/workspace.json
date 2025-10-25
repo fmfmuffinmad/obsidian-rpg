@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "file": "Codex Mirabilis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guilda das Espadas da Lua Negra"
+              "title": "Codex Mirabilis"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "file": "Codex Mirabilis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guilda das Espadas da Lua Negra"
+              "title": "Outline of Codex Mirabilis"
             }
           },
           {
@@ -279,23 +279,27 @@
   },
   "active": "a00f281f063b9aff",
   "lastOpenFiles": [
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Entidades/Judy Hansworth.md",
+    "Pasted image 20251025134710.png",
+    "Pasted image 20251025134648.png",
+    "Notes/2024-12-17.md",
+    "Codex Mirabilis.md",
+    "Untitled.md",
     "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Entidades/Guilda das Espadas da Lua Negra.md",
+    "Entidades/Judy Hansworth.md",
     "Entidades/Confraria da Mão Negra.md",
     "Entidades/Olho Cinza.md",
     "Entidades/Locke Ironhart.md",
     "Entidades/Hans Hopkins.md",
     "Entidades/Hopkins Corp.md",
-    "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Dr. Dorset.md",
     "Entidades/Corta Corais.md",
     "Entidades/Capitã Celaeno.md",
     "Entidades/Alcott Golda.md",
     "Entidades/Agulhas Carmesim.md",
     "Entidades/Thorian Thundervoice.md",
-    "Codex Mirabilis.md",
     "Entidades/Barril.md",
     "Entidades/Pérola.md",
     "Entidades/Hazel Merkov.md",
@@ -304,9 +308,7 @@
     "Locais/Ravaryn.md",
     "Locais/Uplan'Rue.md",
     "Entidades/Uplan'Rue.md",
-    "Untitled.md",
     "Entidades/Tempo e calendário.md",
-    "Entidades/Madeleine Hansworth.md",
     "Notes",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
     "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
@@ -318,13 +320,11 @@
     "Midia/Imagens/Locais",
     "Midia/Imagens/Locais/praca-das-flores.png",
     "Midia/Imagens/Locais/centro-cidade-1.png",
-    "Midia/Imagens/Locais/vista-do-porto-1.png",
     "Midia/Imagens/Entidades/Olho Cinza",
     "Midia",
     "Midia/Imagens/Entidades/Barril",
     "Midia/Imagens/Entidades/Capitã Celaeno",
     "Midia/Imagens/Entidades/Pérola",
-    "Untitled.canvas",
-    "Midia/Imagens/Entidades/Madeleine Hansworth"
+    "Untitled.canvas"
   ]
 }
