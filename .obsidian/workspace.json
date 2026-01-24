@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "Codex Mirabilis"
             }
+          },
+          {
+            "id": "264ba9964e647154",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -239,13 +251,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex Mirabilis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Codex Mirabilis"
+              "title": "Outline"
             }
           },
           {
@@ -277,7 +288,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a00f281f063b9aff",
+  "active": "264ba9964e647154",
   "lastOpenFiles": [
     "Pasted image 20251025134710.png",
     "Pasted image 20251025134648.png",
