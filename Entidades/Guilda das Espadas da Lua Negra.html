@@ -1,0 +1,777 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Guilda das Espadas da Lua Negra</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0; overflow-anchor: none;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #ddd;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ1 .cm-iso {unicode-bidi: isolate;}
+.ͼ1 .cm-announced {position: fixed; top: -10000px;}
+@media print {.ͼ1 .cm-announced {display: none;}}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; z-index: 200;}
+.ͼ1 .cm-gutters-before {inset-inline-start: 0;}
+.ͼ1 .cm-gutters-after {inset-inline-end: 0;}
+.ͼ2 .cm-gutters.cm-gutters-before {border-right-width: 1px;}
+.ͼ2 .cm-gutters.cm-gutters-after {border-left-width: 1px;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border: 0px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0; z-index: 300;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-dialog label {font-size: 80%;}
+.ͼ1 .cm-dialog {padding: 2px 19px 4px 6px; position: relative;}
+.ͼ1 .cm-dialog-close {position: absolute; top: 3px; right: 4px; background-color: inherit; border: none; font: inherit; font-size: 14px; padding: 0;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top; user-select: none;}
+.ͼ1 .cm-highlightSpace {background-image: radial-gradient(circle at 50% 55%, #aaa 20%, transparent 5%); background-position: center;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+ @keyframes loading {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.workspace-leaf-content[data-type="git-view"] .button-border {
+    border: 2px solid var(--interactive-accent);
+    border-radius: var(--radius-s);
+}
+
+.workspace-leaf-content[data-type="git-view"] .view-content {
+    padding: 0;
+}
+
+.workspace-leaf-content[data-type="git-history-view"] .view-content {
+    padding: 0;
+}
+
+.loading > svg {
+    animation: 2s linear infinite loading;
+    transform-origin: 50% 50%;
+    display: inline-block;
+}
+
+.obsidian-git-center {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.obsidian-git-textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.obsidian-git-disabled {
+    opacity: 0.5;
+}
+
+.obsidian-git-center-button {
+    display: block;
+    margin: 20px auto;
+}
+
+.tooltip.mod-left {
+    overflow-wrap: break-word;
+}
+
+.tooltip.mod-right {
+    overflow-wrap: break-word;
+}
+.git-tools {
+    display: flex;
+    margin-left: auto;
+}
+.git-tools .type {
+    padding-left: var(--size-2-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 11px;
+}
+
+.git-tools .type[data-type="M"] {
+    color: orange;
+}
+.git-tools .type[data-type="D"] {
+    color: red;
+}
+.git-tools .buttons {
+    display: flex;
+}
+.git-tools .buttons > * {
+    padding: 0 0;
+    height: auto;
+}
+
+.is-active .git-tools .buttons > * {
+    color: var(--nav-item-color-active);
+}
+
+.git-author {
+    color: var(--text-accent);
+}
+
+.git-date {
+    color: var(--text-accent);
+}
+
+.git-ref {
+    color: var(--text-accent);
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-d-none {
+    display: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-wrapper {
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-header {
+    background-color: var(--background-primary);
+    border-bottom: 1px solid var(--interactive-accent);
+    font-family: var(--font-monospace);
+    height: 35px;
+    padding: 5px 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-header,
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-stats {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-stats {
+    font-size: 14px;
+    margin-left: auto;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-lines-added {
+    border: 1px solid #b4e2b4;
+    border-radius: 5px 0 0 5px;
+    color: #399839;
+    padding: 2px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-lines-deleted {
+    border: 1px solid #e9aeae;
+    border-radius: 0 5px 5px 0;
+    color: #c33;
+    margin-left: 1px;
+    padding: 2px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-name-wrapper {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 15px;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-name {
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-wrapper {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 3px;
+    margin-bottom: 1em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-collapse {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 3px;
+    cursor: pointer;
+    display: none;
+    font-size: 12px;
+    justify-content: flex-end;
+    padding: 4px 8px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-collapse.d2h-selected {
+    background-color: #c8e1ff;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-collapse-input {
+    margin: 0 4px 0 0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-diff-table {
+    border-collapse: collapse;
+    font-family: Menlo, Consolas, monospace;
+    font-size: 13px;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-files-diff {
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-diff {
+    overflow-y: hidden;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-side-diff {
+    display: inline-block;
+    margin-bottom: -8px;
+    margin-right: -4px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 50%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line {
+    padding: 0 8em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line {
+    display: inline-block;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line {
+    padding: 0 4.5em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line-ctn {
+    word-wrap: normal;
+    background: none;
+    display: inline-block;
+    padding: 0;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    vertical-align: middle;
+    white-space: pre;
+    width: 100%;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    del {
+    background-color: #ffb6ba;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    del {
+    background-color: #8d232881;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+    border-radius: 0.2em;
+    display: inline-block;
+    margin-top: -1px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    ins {
+    background-color: #97f295;
+    text-align: left;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    ins {
+    background-color: #1d921996;
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line-prefix {
+    word-wrap: normal;
+    background: none;
+    display: inline;
+    padding: 0;
+    white-space: pre;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .line-num1 {
+    float: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .line-num1,
+.workspace-leaf-content[data-type="diff-view"] .line-num2 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 0 0.5em;
+    text-overflow: ellipsis;
+    width: 3.5em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .line-num2 {
+    float: right;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber {
+    background-color: var(--background-primary);
+    border: solid var(--background-modifier-border);
+    border-width: 0 1px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    text-align: right;
+    width: 7.5em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber:after {
+    content: "\200b";
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber {
+    background-color: var(--background-primary);
+    border: solid var(--background-modifier-border);
+    border-width: 0 1px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0 0.5em;
+    position: absolute;
+    text-align: right;
+    text-overflow: ellipsis;
+    width: 4em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-diff-tbody tr {
+    position: relative;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber:after {
+    content: "\200b";
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-emptyplaceholder,
+.workspace-leaf-content[data-type="diff-view"] .d2h-emptyplaceholder {
+    background-color: var(--background-primary);
+    border-color: var(--background-modifier-border);
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line-prefix,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber,
+.workspace-leaf-content[data-type="diff-view"] .d2h-emptyplaceholder {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber {
+    direction: rtl;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-del {
+    background-color: #fee8e9;
+    border-color: #e9aeae;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-ins {
+    background-color: #dfd;
+    border-color: #b4e2b4;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-del {
+    background-color: #521b1d83;
+    border-color: #691d1d73;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-ins {
+    background-color: rgba(30, 71, 30, 0.5);
+    border-color: #13501381;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-info {
+    background-color: var(--background-primary);
+    border-color: var(--background-modifier-border);
+    color: var(--text-normal);
+}
+
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-del.d2h-change {
+    background-color: #fdf2d0;
+}
+
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-del.d2h-change {
+    background-color: #55492480;
+}
+
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-ins.d2h-change {
+    background-color: #ded;
+}
+
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-ins.d2h-change {
+    background-color: rgba(37, 78, 37, 0.418);
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper {
+    margin-bottom: 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper a {
+    color: #3572b0;
+    text-decoration: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-list-wrapper
+    a:visited {
+    color: #3572b0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-header {
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-title {
+    font-weight: 700;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-line {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list > li {
+    border-bottom: 1px solid var(--background-modifier-border);
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list > li:last-child {
+    border-bottom: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-switch {
+    cursor: pointer;
+    display: none;
+    font-size: 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-icon {
+    fill: currentColor;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-deleted {
+    color: #c33;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-added {
+    color: #399839;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-changed {
+    color: #d0b44c;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-moved {
+    color: #3572b0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-tag {
+    background-color: var(--background-primary);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 10px;
+    margin-left: 5px;
+    padding: 0 2px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-deleted-tag {
+    border: 2px solid #c33;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-added-tag {
+    border: 1px solid #399839;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-changed-tag {
+    border: 1px solid #d0b44c;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-moved-tag {
+    border: 1px solid #3572b0;
+}
+
+/* ====================== Line Authoring Information ====================== */
+
+.cm-gutterElement.obs-git-blame-gutter {
+    /* Add background color to spacing inbetween and around the gutter for better aesthetics */
+    border-width: 0px 2px 0.2px 2px;
+    border-style: solid;
+    border-color: var(--background-secondary);
+    background-color: var(--background-secondary);
+}
+
+.cm-gutterElement.obs-git-blame-gutter > div,
+.line-author-settings-preview {
+    /* delegate text color to settings */
+    color: var(--obs-git-gutter-text);
+    font-family: monospace;
+    height: 100%; /* ensure, that age-based background color occupies entire parent */
+    text-align: right;
+    padding: 0px 6px 0px 6px;
+    white-space: pre; /* Keep spaces and do not collapse them. */
+}
+
+@media (max-width: 800px) {
+    /* hide git blame gutter not to superpose text */
+    .cm-gutterElement.obs-git-blame-gutter {
+        display: none;
+    }
+}
+ .setting-item.ex-setting-item{border-top:unset;padding-top:0}*[hidden]{display:none}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+ undefined
+</style>
+    </head>
+    <body>
+<p dir="auto">Tags: <a href="D:\obsidian\obsidian-rpg\Entidades\index.html#todo\groups\description.html" class="tag" target="_blank" rel="noopener nofollow">#todo/groups/description</a> <a href="D:\obsidian\obsidian-rpg\Entidades\index.html#Grupo\Espadas-Lua-Negra.html" class="tag" target="_blank" rel="noopener nofollow">#Grupo/Espadas-Lua-Negra</a> </p>
+<h3 data-heading="A Origem: A Era da Opressão" dir="auto">A Origem: A Era da Opressão</h3>
+<p dir="auto">Há centenas de anos, Melenar quase sucumbiu diante da ambição de um tirano conhecido como <strong>O Soberano de Ferro</strong>. Ele era um ser de violência pura, cuja crueldade não conhecia limites. Seu avanço pelo reino deixou um rastro de destruição, e seu objetivo era absoluto: <strong>subjulgar</strong> a população através da força bruta, quebrando o espírito do povo para que servissem apenas aos seus caprichos.</p>
+<p dir="auto">Contra esse regime de terror, doze guerreiros de elite se levantaram. Eles entenderam que para libertar o povo daquele julgo, precisariam de um poder bélico capaz de rivalizar com a brutalidade do exército inimigo. Cada um empunhou uma arma lendária, forjada para ser a resposta definitiva à tirania.</p>
+<p dir="auto">Assim foi fundada a <strong>Guilda das Espadas da Lua Negra</strong>: a última linha de defesa entre a liberdade e a escravidão total.</p>
+<h3 data-heading="A Ascensão: A Era das Doze Casas" dir="auto">A Ascensão: A Era das Doze Casas</h3>
+<p dir="auto">Após a queda do "Soberano de Ferro" e a libertação de Melenar, os doze heróis não se dispersaram. Compreendendo que a tirania poderia retornar sob outras faces, eles formalizaram a <strong>Guilda das Espadas da Lua Negra</strong>. Para garantir que seus estilos de combate únicos não se perdessem, cada um dos doze fundadores estabeleceu uma "Casa" dentro da guilda.</p>
+<p dir="auto">Cada Casa era dedicada a preservar a técnica e a filosofia de uma das armas lendárias:</p>
+<h4 data-heading="1. Aranha: **Ordem das Tecelãs**" dir="auto">1. Aranha: <strong>Ordem das Tecelãs</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Controle e Manipulação.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> O portador não apenas luta, ele "costura" o campo de batalha. Focado em prender adversários e usar o cenário a seu favor.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>Agulha de fiar alma</em> — Uma agulha de costura gigante sem guarda, feita de prata, conectada a um carretel de onde sai um fio de seda branco indestrutível. A arma perfura e o fio enreda os inimigos.<br>
+<img alt="Agulha de fiar alma.png" src="Agulha de fiar alma.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="2. Lobo: **A Matilha das Espadas**" dir="auto">2. Lobo: <strong>A Matilha das Espadas</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Tática de Matilha e Coordenação.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Combate com duas armas, focado em flanquear, cercar e cansar o oponente através de ataques incessantes e coordenados.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>Gêmeas do Luar</em> — Um par de sabres curvos perfeitamente balanceados que parecem ficar mais leves quanto mais rápido o usuário se move, permitindo uma tempestade de golpes.<br>
+<img alt="Gêmeas do Luar.png" src="Gêmeas do Luar.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="3. Dragão: **A Vanguarda da Chama**" dir="auto">3. Dragão: <strong>A Vanguarda da Chama</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Força Bruta e Destruição.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Golpes pesados e devastadores. Eles eram a linha de frente usada para quebrar as formações de escudos do tirano Soberano de Ferro.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>A Presa do Monarca</em> — Um montante colossal (<em>Greatsword</em>) de lâmina negra que emana um calor constante. Diz a lenda que o metal foi temperado em sangue de dragão ancestral.<br>
+<img alt="A Presa do Monarca.png" src="A Presa do Monarca.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="4. Serpente: **O Círculo da Víbora**" dir="auto">4. Serpente: <strong>O Círculo da Víbora</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Enganação e Imprevisibilidade.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Movimentos fluidos e erráticos. O guerreiro ataca de ângulos impossíveis, focando em atingir onde o inimigo está desprotegido.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>A Língua Bífida</em> — Uma espada-chicote (semelhante a uma <em>Urumi</em>) que pode se estender para atacar à distância ou enrijecer instantaneamente para aparar golpes.<br>
+<img alt="A Língua Bífida.png" src="A Língua Bífida.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="5. Corvo: **Os Observadores da Penumbra**" dir="auto">5. Corvo: <strong>Os Observadores da Penumbra</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Espionagem, Assassinato e Magia.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Combate furtivo misturado com ilusões ou magia de sombras. Especialistas em eliminar ameaças antes que a batalha comece.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>O Bico da Meia-Noite</em> — Uma espada curta (ou adaga longa) feita de vidro vulcânico (obsidiana) que absorve a luz ao invés de refleti-la, tornando a lâmina invisível na escuridão.<br>
+<img alt="O Bico da Meia-Noite.png" src="O Bico da Meia-Noite.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="6. Urso: **O Baluarte Indomável**" dir="auto">6. Urso: <strong>O Baluarte Indomável</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Defesa Absoluta e Resistência.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Defensivo, focado em aguentar punição física extrema e contra-atacar com força esmagadora para quebrar ossos.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>A Coluna do Mundo</em> — Uma espada larga e quadrada, sem ponta de perfuração, usada tanto como um escudo impenetrável quanto como uma barra de ferro para destroçar armaduras.<br>
+<img alt="A Coluna do Mundo.png" src="A Coluna do Mundo.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="7. Falcão: **Os Lanceiros do Vento**" dir="auto">7. Falcão: <strong>Os Lanceiros do Vento</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Velocidade Extrema e Precisão.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Duelista, focado em estocadas cirúrgicas em pontos vitais. Eles atacam e recuam antes que o inimigo possa reagir.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>A Pena de Prata</em> — Um florete extremamente fino, leve e flexível, capaz de encontrar e perfurar as brechas mais minúsculas de uma armadura pesada.<br>
+<img alt="A Pena de Prata.png" src="A Pena de Prata.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="8. Fênix: **A Guarda Renascida**" dir="auto">8. Fênix: <strong>A Guarda Renascida</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Persistência e Atrito.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Agressivo e incansável. Seus guerreiros lutam ignorando a dor e os ferimentos, inspirando aliados e aterrorizando inimigos com sua vitalidade.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>A Chama Eterna</em> — Uma cimitarra de lâmina avermelhada que cauteriza instantaneamente as feridas que causa (impedindo cura mágica ou natural imediata) e brilha intensamente na presença de maldade.<br>
+<img alt="A Chama Eterna.png" src="A Chama Eterna.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="9. Escorpião: **A Irmandade do Ferrão**" dir="auto">9. Escorpião: <strong>A Irmandade do Ferrão</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Punição e Contra-Ataque.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Posturas baixas e pacientes. Eles esperam o inimigo cometer um erro para desferir um único golpe fatal.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>O Ferrão do Deserto</em> — Uma espada com a ponta curvada em formato de gancho reverso, projetada para prender a arma ou o membro do oponente e puxá-lo para a morte.<br>
+<img alt="O Ferrão do Deserto.png" src="O Ferrão do Deserto.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="10. Basilisco: **Os Arautos do Terror**" dir="auto">10. Basilisco: <strong>Os Arautos do Terror</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Medo e Controle Mental.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Golpes visuais e intimidadores que visam imobilizar ou desarmar psicologicamente o oponente.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>O Olhar de Pedra</em> — Uma espada pesada feita de um metal cinzento que se assemelha a pedra polida. A lâmina libera uma toxina mística de contato que causa paralisia muscular progressiva.<br>
+<img alt="O Olhar de Pedra.png" src="O Olhar de Pedra.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="11. Morcego: **Os Cegos da Noite**" dir="auto">11. Morcego: <strong>Os Cegos da Noite</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Combate Noturno e Percepção Sensorial.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Luta cega (muitas vezes vendados), utilizando a audição e a percepção do ambiente para lutar na escuridão total.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>O Eco Silencioso</em> — Duas lâminas curvas em formato de meia-lua (<em>Khopesh</em>) que emitem um som agudo específico ao cortar o ar, permitindo ao usuário "ver" o ambiente através da ecolocalização do som da lâmina.<br>
+<img alt="O Eco Silencioso.png" src="O Eco Silencioso.png" class="internal-embed"></li>
+</ul>
+<h4 data-heading="12. Quimera: **A Legião das Mil Formas**" dir="auto">12. Quimera: <strong>A Legião das Mil Formas</strong></h4>
+<ul>
+<li dir="auto"><strong>Conceito:</strong> Versatilidade e Adaptação.<br>
+</li>
+<li dir="auto"><strong>Estilo:</strong> Mudança constante. O guerreiro altera sua postura e alcance durante a luta, tornando-se imprevisível.<br>
+</li>
+<li dir="auto"><strong>Arma Lendária:</strong> <em>A Lâmina das Mil Faces</em> — Uma espada mecânica segmentada que pode ser alterada no meio do combate (ex: alongar o cabo para virar uma lança, separar em duas adagas ou travar como uma espada longa).<br>
+<img alt="A Lâmina das Mil Faces.png" src="A Lâmina das Mil Faces.png" class="internal-embed"></li>
+</ul>
+<p dir="auto">Durante os primeiros séculos, as Doze Casas serviram como a elite militar e conselheira do reino. Ser aceito como um escudeiro em uma dessas casas era a maior honra que um jovem poderia almejar.</p>
+<h3 data-heading="O Declínio: O Veneno da Paz" dir="auto">O Declínio: O Veneno da Paz</h3>
+<p dir="auto">Paradoxalmente, foi o sucesso da Guilda que selou seu destino. A paz duradoura que eles conquistaram tornou a existência de guerreiros tão letais "desnecessária" aos olhos da nobreza e do povo comum.</p>
+<ol>
+<li dir="auto"><strong>A Irrelevância Política:</strong> Sem um "perigo eminente" ou um tirano para combater, a manutenção da Guilda tornou-se custosa para o reino. Reis e governantes subsequentes começaram a ver as Doze Casas não como protetores, mas como uma força militar independente e perigosa dentro de seus muros. Verbas foram cortadas, privilégios revogados e a influência política da Guilda minguou.</li>
+<li dir="auto"><strong>De Guardiões a Relíquias:</strong> Com o passar das décadas, a população esqueceu o terror da subjugação. A Guilda passou a ser vista como um clube de aristocratas excêntricos ou um museu vivo de táticas de guerra obsoletas. As linhagens familiares começaram a se perder ou se desinteressar pelo "caminho da espada", preferindo o comércio ou a política convencional.</li>
+<li dir="auto"><strong>A Fragmentação:</strong> Desesperadas por propósito ou sobrevivência, algumas Casas começaram a vender seus serviços como mercenários de luxo, desonrando o pacto original. Outras, sentindo-se traídas pelo reino que salvaram, mergulharam nas sombras.</li>
+</ol>
+<p dir="auto">Hoje, a Guilda é apenas uma sombra do que foi, reverenciada apenas por historiadores, enquanto seus verdadeiros segredos estão dispersos ou escondidos com os poucos descendentes leais, como foi o caso de <strong>Madeleine Hansworth</strong>.</p>
+<h1 data-heading="Imagens" dir="auto">Imagens</h1>
+<p dir="auto"><img alt="espadas-da-lua-negra-icon-1.png" src="espadas-da-lua-negra-icon-1.png" class="internal-embed"></p>
+    </body>
+</html>

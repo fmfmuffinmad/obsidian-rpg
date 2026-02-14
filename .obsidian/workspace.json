@@ -146,9 +146,189 @@
               "icon": "lucide-file",
               "title": "Guilda das Espadas da Lua Negra"
             }
+          },
+          {
+            "id": "bc478cd66bb0fd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "868de414f9116837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "df5721b15343e000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "5ef676b91406e414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "6d7f7b4bf53e6044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "ffe32e1b445fd9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "4469c676563c21a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "5eedad555ea50a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "379c7128bb44badd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "a7b7c8d8a150556f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "da0bbbfcdbf42e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "bac15e28c30f8c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilda das Espadas da Lua Negra"
+            }
+          },
+          {
+            "id": "58d0268b4eb8fbf0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -267,13 +447,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Guilda das Espadas da Lua Negra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guilda das Espadas da Lua Negra"
+              "title": "Outline"
             }
           },
           {
@@ -305,21 +484,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15fbdc6159b55889",
+  "active": "58d0268b4eb8fbf0",
   "lastOpenFiles": [
+    "Entidades/Guilda das Espadas da Lua Negra.html",
+    "Midia/Imagens/A Lâmina das Mil Faces.png",
+    "Entidades/Guilda das Espadas da Lua Negra.md",
+    "Midia/Imagens/O Eco Silencioso.png",
+    "Midia/Imagens/O Olhar de Pedra.png",
+    "README.md",
+    "Midia/Imagens/O Ferrão do Deserto.png",
+    "Pasted image 20260214005346.png",
+    "Midia/Imagens/A Chama Eterna.png",
+    "Midia/Imagens/A Pena de Prata.png",
+    "Midia/Imagens/A Coluna do Mundo.png",
+    "Midia/Imagens/O Bico da Meia-Noite.png",
+    "Midia/Imagens/A Língua Bífida.png",
     "Entidades/Thorian Thundervoice.md",
     "Entidades/Uplan'Rue.md",
     "Entidades/Agulhas Carmesim.md",
     "Notes/2024-12-17.md",
     "Codex Mirabilis.md",
-    "Pasted image 20251025134648.png",
-    "Pasted image 20251025134710.png",
-    "README.md",
     "Untitled.base",
     "Untitled.md",
     "Untitled 1.base",
     "Untitled 2.base",
-    "Entidades/Guilda das Espadas da Lua Negra.md",
     "Entidades/Hans Hopkins.md",
     "Entidades/Hazel Merkov.md",
     "Entidades/Hopkins Corp.md",
@@ -337,17 +525,8 @@
     "Entidades/Barril.md",
     "Entidades/Capitã Celaeno.md",
     "Entidades/Confraria da Mão Negra.md",
-    "Entidades/Dr. Dorset.md",
-    "Midia/Imagens/Entidades/Hans Hopkins/hans-portrait-02.png",
     "Notes",
-    "Midia/Imagens/Entidades/Judy Hansworth/judy-portrait-1.jpg",
-    "Midia/Imagens/Entidades/Judy Hansworth/judy-full-3.png",
-    "Midia/Imagens/Entidades/Judy Hansworth/judy-full-1.png",
-    "Midia/Imagens/Entidades/Judy Hansworth/judy-child-portrait-1.png",
-    "Midia/Imagens/Entidades/corta-corais.png",
-    "Midia/Imagens/Locais/vista-do-porto-2.png",
     "Midia/Imagens/Locais",
-    "Midia/Imagens/Locais/praca-das-flores.png",
     "Midia/Imagens/Entidades/Olho Cinza",
     "Midia",
     "Midia/Imagens/Entidades/Barril",
