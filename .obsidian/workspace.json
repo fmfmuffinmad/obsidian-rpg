@@ -25,13 +25,14 @@
             "id": "7c468c020fc310be",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 4.base",
-                "viewName": "Table"
+                "file": "Entidades/Corta Corais.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 4"
+              "icon": "lucide-file",
+              "title": "Corta Corais"
             }
           }
         ],
@@ -154,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.base",
+                "file": "Entidades/Corta Corais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 4"
+              "title": "Outline of Corta Corais"
             }
           },
           {
@@ -194,8 +195,8 @@
   },
   "active": "7c468c020fc310be",
   "lastOpenFiles": [
-    "Untitled 3.base",
     "Untitled 4.base",
+    "Untitled 3.base",
     "Entidades/Madeleine Hansworth.md",
     "Entidades/Guilda das Espadas da Lua Negra.md",
     "Midia/Imagens/Entidades/espadas-da-lua-negra-icon-1.png",
