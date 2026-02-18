@@ -193,8 +193,76 @@ Para dar vida à campanha, Uplanrue não pode ser perfeita. Existem tensões cre
 |**Entretenimento**|**Refúgio das Brumas** (Sigilo/Luxo)|**Raposa de Bronze** (Festa/Show)|**Toca do Velho Bode** (Acolhimento)|**O Açougue** (Violência)|
 |**Poder**|Intelectual/Político|Financeiro|Comunitário|Força Bruta|
 
+## **Locais de interesse**
 
-### **Local de Interesse: Universidade de Ciências e Tecnologia de Uplanrue**
+
+### **Bairro Residencial da Coroa de Prata**
+
+_(O Cume de Cristal)_
+
+Localizado no ponto geográfico mais alto de Uplanrue, este bairro é fisicamente separado da fumaça do Centro Comercial e da umidade do Porto. Aqui, graças à altitude e ventos constantes, o ar é sempre limpo. É o lar das dinastias antigas, dos novos magnatas da tecnologia e dos membros do Conselho.
+
+#### **Descrição do Local**
+
+O urbanismo aqui é impecável e planejado para ostentar a fusão entre riqueza e tecnologia.
+
+- **As Ruas:** Não há paralelepípedos irregulares. As ruas são pavimentadas com pedras brancas polidas que refletem a luz do sol, mantidas imaculadas por pequenos autômatos de limpeza em forma de besouros.
+    
+- **Iluminação e Energia:** Durante o dia, espelhos côncavos no topo das casas direcionam a luz solar para estufas privadas. À noite, postes de _arcanite_ refinada emitem uma luz dourada suave, diferente da luz branca e fria dos laboratórios.
+    
+- **Segurança:** A Guarda da Cidade aqui usa uniformes cerimoniais impecáveis e é auxiliada por "Sentinelas de Bronze" (constructos estáticos que vigiam as esquinas). A entrada no bairro por não-residentes é frequentemente questionada.
+    
+
+#### **Residências Notáveis**
+
+1. **Mansão Hansworth ("O Solar dos Ventos")** A residência da família de Judy e Madeleine Hansworth.
+    
+    - **Arquitetura:** Refletindo a herança **Felina** da família, a mansão é projetada com verticalidade e elegância. Possui grandes terraços abertos, torres com janelas amplas para banhos de sol e passarelas estreitas e altas que conectam as alas da casa (perfeitas para quem tem equilíbrio aguçado).
+        
+    - **Estética:** É decorada com tapeçarias finas que tremulam com a brisa do mar e muitas obras de arte. Diferente da frieza metálica de outras casas, aqui há muita madeira nobre polida e almofadas de seda. O jardim é famoso por suas "árvores-poste", plantas geneticamente modificadas que brilham à noite.
+        
+2. **Mansão Hopkins ("O Pavilhão Mecânico")** A residência da família de Hopps e do desaparecido Hans Hopkins.
+    
+    - **Menção Breve:** Contrasta fortemente com a casa dos Hansworth. É uma estrutura mais robusta, cheia de chaminés de latão (agora frias) e engrenagens decorativas na fachada. As janelas estão fechadas e o jardim, outrora repleto de autômatos jardineiros, está silencioso e crescendo desordenadamente, dando à casa um ar de "gigante adormecido".
+        
+3. **Residência Merkov ("A Torre de Obsidiana")** A casa de Hazel Merkov.
+    
+    - **Arquitetura:** Uma afronta moderna às casas tradicionais. É um bloco angular de pedra negra e vidro fumê, impenetrável aos olhares curiosos. O telhado é coberto por painéis solares de última geração que parecem escamas de um dragão negro. Dizem que a segurança da casa é totalmente automatizada, sem guardas vivos.
+        
+
+#### **Serviços Exclusivos da Área**
+
+- **O "Atelier da Pelagem Real" (Royal Fur Atelier):** Uma boutique de moda e estética especializada em bestiais de elite.
+    
+    - _O Serviço:_ Aqui, felinos e coelhos da alta sociedade vêm para aparar os pelos, tingir padrões exóticos na pelagem com tintas alquímicas temporárias e comprar roupas sob medida que acomodam caudas e orelhas com ergonomia perfeita.
+        
+    - _O Dono:_ Um Pavão vaidoso chamado **Monsieur Plume**, que dita a moda da cidade com mão de ferro.
+        
+- **Clube de Cavalheiros e Damas "A Bússola de Ouro":** Um clube privado onde negócios são fechados longe do barulho da Bolsa de Valores.
+    
+    - _O Ambiente:_ Poltronas de couro, charutos importados e um serviço de bar operado por autômatos silenciosos. A entrada é restrita a quem possui um patrimônio líquido acima de um milhão de engrenagens de ouro (ou um título de nobreza).
+        
+
+#### **NPCs Notáveis (Vizinhança)**
+
+**1. Capitão "Canino" (Ironbark)**
+
+- **Raça:** Um Dogue Alemão (Cão) idoso e corpulento.
+    
+- **Função:** Chefe da Segurança Privada do Bairro.
+    
+- **Personalidade:** Ex-militar, extremamente leal às famílias antigas (tem um carinho especial pelos Hansworth). Ele desconfia dos "novos ricos" e detesta a tecnologia excessiva que substitui bons soldados por máquinas. Ele conhece todos os moradores pelo cheiro e sabe exatamente quem entra e sai do bairro.
+    
+
+**2. Lady Beatrice**
+
+- **Raça:** Uma Gata Persa branca, sempre carregando um leque.
+    
+- **Função:** A principal fofoqueira da alta sociedade.
+    
+- **Personalidade:** Ela passa os dias no _Atelier da Pelagem Real_ ou nos jardins, observando tudo. Se alguém (como Hopps) precisa saber quem visitou a Mansão Merkov na noite passada, Lady Beatrice sabe, mas a informação custará um favor ou um elogio muito bem feito.
+
+### **Universidade de Ciências e Tecnologia de Uplanrue**
 
 _(O Jardim das Engrenagens)_
 
@@ -259,7 +327,7 @@ O campus é formado por uma série de **domos geodésicos** de vidro reforçado 
     
 - **Personalidade:** Prática e direta. Vive com óculos de solda na testa e as mãos sujas de graxa. Ela é a gênio por trás dos sistemas de manutenção da cidade e tem pouca paciência para teoria sem prática.
 
-### **Local de Interesse: Refúgio das Brumas (Antigo Palácio de Vapores)**
+### **Refúgio das Brumas (Antigo Palácio de Vapores)**
 
 Embora oficialmente listado nos registros da cidade como um **Spa e Casa de Banhos Terapêuticos** de alto padrão, frequentado pela elite para relaxar nas águas aquecidas por núcleos de arcanite, o _Refúgio das Brumas_ é o segredo mais mal guardado da alta sociedade.
 
