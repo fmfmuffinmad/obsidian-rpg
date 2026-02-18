@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "f028b263c17355ba",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c468c020fc310be",
+  "active": "f028b263c17355ba",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Entidades/Corta Corais.md",
     "Entidades/Guilda das Espadas da Lua Negra.md",
     "Untitled 4.base",
@@ -218,7 +234,6 @@
     "Entidades/Alcott Golda.md",
     "Entidades/Barril.md",
     "Entidades/Capitã Celaeno.md",
-    "Entidades/Confraria da Mão Negra.md",
     "Notes",
     "Midia/Imagens/Locais",
     "Midia/Imagens/Entidades/Olho Cinza",
