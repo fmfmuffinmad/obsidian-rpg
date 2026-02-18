@@ -1,4 +1,5 @@
 
+## DRAFT
 ### **Uplanrue: A Joia de Ravaryn**
 
 Uplanrue não é apenas uma cidade; é o coração pulsante da região de **Ravaryn**. Conhecida por sua arquitetura verticalizada e pelo zumbido constante de maquinário misturado a magia, a cidade é um farol de progresso científico, embora suas fundações antigas escondam segredos sombrios.
@@ -106,7 +107,7 @@ Para dar vida à campanha, Uplanrue não pode ser perfeita. Existem tensões cre
 
 
 
-
+## TEXTO BASE
 
 ### **A Pirâmide Social de Uplanrue**
 
@@ -759,7 +760,7 @@ O bairro rejeita a poluição visual da tecnologia moderna.
 - **O Coreto de Leitura:** Um pequeno pavilhão de madeira no centro de uma praça gramada. Como jornais são caros, um morador alfabetizado costuma ler as notícias do dia em voz alta para os vizinhos ali reunidos antes do jantar.
     
 
-#### **NPCs Notáveis (Apenas Porcos, Gatos, Coelhos e Aves)**
+#### **NPCs Notáveis 
 
 **1. Tia Marisol**
 
@@ -790,3 +791,119 @@ O bairro rejeita a poluição visual da tecnologia moderna.
 - **Função:** A Tricoteira da Varanda.
     
 - **Atividade:** Ela passa o dia na cadeira de balanço tricotando colchas de retalhos. Dizem que ela tricotou o primeiro cobertor de Hopps. Ela é a memória viva da cidade e sabe a árvore genealógica de todo mundo.
+
+### **Antigo Salão das Espadas da Lua Negra**
+
+_(O Templo Silencioso)_
+
+Localizado numa rua lateral do agitado Centro Comercial, este edifício parece deslocado no tempo. Enquanto ao redor dele fábricas soltam fumaça e o banco movimenta ouro, o Salão permanece imóvel, sombrio e solene, como uma testemunha muda de uma era esquecida.
+
+#### **Descrição do Local**
+
+É uma estrutura gótica de pedra cinza-escura, muito anterior à era tecnológica de Uplanrue. Não há janelas de vidro modernas, apenas frestas estreitas que deixam entrar feixes de luz poeirenta.
+
+- **A Fachada:** A porta é de madeira negra reforçada com ferro, desgastada por séculos de chuva ácida. O brasão da Lua Negra ainda é visível acima do arco, mas quase apagado pela fuligem da cidade.
+    
+- **O Interior:** Ao entrar, o barulho da cidade desaparece. O ar é frio, parado e tem cheiro de tecido antigo e cera de vela. O salão principal é vasto, com um teto abobadado que se perde na escuridão.
+    
+
+#### **As 12 Tapeçarias dos Mestres**
+
+Onde antes se esperaria ver armas expostas, as paredes laterais do grande salão são decoradas por doze imensas tapeçarias verticais, cada uma com mais de cinco metros de altura.
+
+- **O Que Representam:** Cada tapeçaria retrata um dos 12 Guerreiros Fundadores em sua glória máxima, empunhando sua **Espada Única** em combate contra a "entidade sombria" de Melenar. As cenas são épicas, bordadas com fios que um dia foram de ouro e prata.
+    
+- **O Estado de Conservação:** O estado das tapeçarias reflete o estado atual da Guilda:
+    
+    - **3 Tapeçarias:** Estão impecáveis, com as cores vibrantes e os fios de ouro ainda brilhando, como se o tempo não as tivesse tocado (talvez protegidas por magia ou restauradas recentemente).
+        
+    - **9 Tapeçarias:** Estão desbotadas, rasgadas ou comidas por traças. Em algumas, o rosto do herói ou o formato da espada já não podem ser discernidos, representando as linhagens e os conhecimentos que se perderam.
+        
+
+#### **Função Atual: O Museu Esquecido**
+
+Oficialmente, o prédio é listado como "Patrimônio Histórico Municipal", mas raramente recebe visitantes. É um lugar para onde se vai buscar silêncio, não conhecimento. A maioria dos habitantes de Uplanrue acha que as histórias nas tapeçarias são apenas contos de fadas, e não registros históricos.
+
+#### **NPC Notável**
+
+**1. O Guardião "Corvo" (Raven)**
+
+- **Raça:** Um **Corvo** (_Bird_) antropomórfico, curvado pela idade, com penas negras que parecem um manto surrado.
+    
+- **Nome:** Mestre Aris.
+    
+- **Personalidade:** Ele fala sussurrando e se move sem fazer som. Ele passa os dias tentando remendar as tapeçarias danificadas com agulha e linha, uma tarefa impossível e interminável.
+    
+- **Interação:** Ele conhece a história de cada fio bordado. Se Hopps demonstrar respeito ou conhecimento sobre as espadas, Aris pode apontar para um detalhe escondido numa das tapeçarias (um mapa bordado no fundo de uma cena de batalha, por exemplo).
+
+## Locais de Interesse: A Periferia e Destrito Vermelho
+
+### **A Colmeia (The Hive)**
+
+_(O Grande Cupinzeiro)_
+
+Se a Coroa de Prata é o teto de Uplanrue, a Colmeia é o seu alicerce podre. É o maior conjunto habitacional da periferia, mas não foi planejado por arquitetos; cresceu organicamente como um fungo sobre as ruínas de uma antiga fortificação de pedra.
+
+#### **Descrição do Local**
+
+Imagine uma base de muralha de pedra úmida e coberta de limo. Acima dela, ergue-se uma montanha caótica de **madeira de demolição, caixotes de carga, portas de navios naufragados e telhas quebradas**.
+
+- **Arquitetura do Caos:** Barracos foram pregados uns sobre os outros, subindo sete ou oito andares de altura de forma precária. O prédio range constantemente com o vento, um som que os moradores chamam de "o choro da velha".
+    
+- **O Labirinto Interno:** Não há corredores retos. O interior é um emaranhado de escadas de mão, túneis estreitos onde é preciso andar curvado e pontes de corda que cruzam o vão central (um poço de ventilação escuro que cheira a lixo e fumaça).
+    
+    - _Iluminação:_ Quase inexistente. Quem caminha aqui usa tochas ou lanternas de óleo de peixe, que deixam as paredes manchadas de fuligem.
+        
+#### **Quem Mora Aqui?**
+
+- **Os Invisíveis:** Famílias que perderam tudo, viciados em _Lótus Negra_, criminosos que precisam sumir do mapa e bestiais cujas raças são discriminadas ou vistas como "perigosas" na cidade alta.
+    
+#### **NPC Notável**
+
+**1. Bóris "Quebra-Tábuas"**
+
+- **Raça:** Um **Javali** (_Boar_) gigantesco, com uma presa quebrada e cicatrizes que formam um mapa de violência no rosto.
+    
+- **Função:** O "Síndico" e Chefe do Território.
+    
+- **Base:** Ele vive no térreo (a parte de pedra, mais segura).
+    
+- **Personalidade:** Brutal, mas justo à sua maneira distorcida. Ele cobra o aluguel. Se você não tem dinheiro, paga com comida. Se não tem comida, paga com serviços (geralmente ilegais). Ele protege a Colmeia da polícia: "Aqui dentro, a lei sou eu. Nenhum guarda entra sem perder as pernas."
+
+### **O Açougue (The Butcher's)**
+
+_(A Taverna do Sangue)_
+
+Localizado no subsolo de um antigo matadouro industrial que foi desativado há décadas, este é o bar mais perigoso de Uplanrue. Não é um lugar para bardos cantarem; é um lugar para negócios serem fechados em sussurros e para a violência explodir em silêncio.
+
+#### **Descrição do Local**
+
+Para entrar, desce-se uma escadaria de pedra escorregadia que leva ao porão.
+
+- **O Ambiente:** As paredes são de pedra bruta, ainda manchadas de sangue antigo que a umidade nunca deixou secar. O teto é baixo, sustentado por vigas de carvalho escuro.
+    
+    - **Decoração Macabra:** Ganchos de ferro enferrujados ainda pendem do teto. Antigamente seguravam carcaças de gado; hoje, seguram os casacos dos patronos ou lanternas de óleo vermelho.
+        
+    - **O Chão:** É de terra batida misturada com palha suja, trocada apenas quando fica muito empapada de cerveja ou fluidos corporais após uma briga.
+        
+- **A Bebida:** Não peça vinho. Aqui bebe-se o **"Óleo de Motor"** — um destilado clandestino, preto e espesso, feito de raízes fermentadas e (dizem as más línguas) uma gota de combustível de dirigível. Queima a garganta e entorpece a dor. Serve-se em canecas de barro ou chifres de animais, pois vidro é luxo de gente fraca.
+    
+
+#### **Atividades e Clientela**
+
+- **O Balcão de Negócios:** As mesas do fundo, mergulhadas na sombra, são onde contrabandistas vendem mercadorias que a Guilda dos Artífices proibiu e onde assassinos aceitam contratos.
+    
+- **A Regra de Ouro:** _"Sem nomes, sem perguntas, sem reembolso."_
+    
+
+#### **NPC Notável**
+
+**1. "Vó" Griselda**
+
+- **Raça:** Uma **Ratazana** (_Rat_) idosa, curvada, sem a orelha esquerda e com olhos leitosos que parecem ver mais do que deveriam.
+    
+- **Função:** Proprietária e "Química".
+    
+- **História:** Dizem que ela foi uma alquimista brilhante na Universidade, expulsa por experimentos antiéticos.
+    
+- **Atitude:** Ela fica atrás do balcão, mexendo um caldeirão de ferro onde prepara o "Óleo de Motor" (ou venenos, dependendo do cliente). Ela tem uma coleção de facas de açougueiro perfeitamente afiadas ao seu alcance. Ela tem uma queda por Hopps (ou qualquer jovem coelho), chamando-o de "lanche" ou "queridinho" de forma inquietante, mas pode vender informações sobre venenos ou antídotos se o preço for bom.
