@@ -193,7 +193,7 @@ Para dar vida à campanha, Uplanrue não pode ser perfeita. Existem tensões cre
 |**Entretenimento**|**Refúgio das Brumas** (Sigilo/Luxo)|**Raposa de Bronze** (Festa/Show)|**Toca do Velho Bode** (Acolhimento)|**O Açougue** (Violência)|
 |**Poder**|Intelectual/Político|Financeiro|Comunitário|Força Bruta|
 
-## **Locais de interesse**
+## **Locais de interesse**: Coroa de Prata
 
 
 ### **Bairro Residencial da Coroa de Prata**
@@ -388,3 +388,74 @@ Embora oficialmente listado nos registros da cidade como um **Spa e Casa de Banh
 - **Chantagem:** Um aliado de Hopps (talvez alguém da Universidade) está sendo chantageado por frequentar o local, e os aventureiros precisam recuperar um "cristal de memória" que contém gravações comprometedoras antes que Zafira o venda.
     
 - **O Túnel Secreto:** Há rumores de que existe uma passagem subterrânea que liga os porões do Palácio de Vapores diretamente ao sistema de esgoto que leva ao Distrito Vermelho, permitindo que figuras importantes entrem e saiam sem serem vistas na Coroa de Prata.
+
+## Locais de interesse: Centro Comercial
+
+### Banco Mercantil de Uplanrue
+
+_(O Cofre de Ferro)_
+
+Este edifício é mais do que um banco; é a prova física da estabilidade de Uplanrue. Enquanto a Universidade representa o futuro, o Banco representa o "agora" e o poder do ouro. É considerado o local mais seguro de toda a região de Ravaryn, dizem que é mais difícil roubar um centavo aqui do que invadir a mansão de um conselheiro.
+
+#### **Descrição do Local**
+
+O banco é um monólito quadrado, construído com blocos maciços de granito negro e reforçado com vigas de ferro expostas.
+
+- **A Fachada:** Não há janelas nos três primeiros andares, apenas paredes lisas e impenetráveis. A entrada é uma porta circular gigantesca, semelhante à porta de um cofre, que permanece aberta durante o dia e é selada hidraulicamente ao pôr do sol.
+    
+- **O Sistema Pneumático (A "Teia de Ouro"):** A característica mais marcante é a rede de tubos de latão polido que sai do telhado e das laterais do prédio, espalhando-se por toda a cidade como veias metálicas.
+    
+    - _Funcionamento:_ Cápsulas de transporte viajam por esses tubos usando pressão de ar comprimido. Comerciantes enviam depósitos, nobres enviam documentos e a Universidade envia pagamentos, tudo zunindo sobre a cabeça dos pedestres. Dentro do banco, o som é um _thump-thump-whoosh_ rítmico e constante de cápsulas chegando.
+        
+- **O Interior:** O saguão principal é uma catedral ao capitalismo. O teto é alto, sustentado por colunas de mármore verde. O balcão dos caixas é protegido por uma grade de bronze eletrificado e vidro à prova de balística (ou magia).
+    
+
+#### **Segurança: Os Sentinelas de Bronze**
+
+A segurança não é feita por guardas vivos que podem ser subornados ou dormir em serviço.
+
+- **Os Golens:** Quatro constructos de 3 metros de altura guardam o saguão. Eles não têm rosto, apenas uma chapa de metal lisa com sensores de vibração.
+    
+    - _Armamento:_ Seus braços não têm mãos, mas sim martelos pneumáticos e lançadores de rede. Eles permanecem imóveis como estátuas até que o alarme toque, quando suas fornalhas internas acendem, soltando vapor por "narinas" de escape.
+        
+
+#### **Quem Frequenta?**
+
+- **Magnatas do Comércio:** Felinos e Cães de grande porte negociando empréstimos para novas frotas de navios.
+    
+- **Artífices Endividados:** Jovens inventores buscando financiamento para suas criações, muitas vezes deixando seus próprios protótipos como garantia (o banco tem um armazém cheio de invenções confiscadas).
+    
+- **Aventureiros de Elite:** Buscando alugar cofres para guardar itens mágicos perigosos que não podem ficar em casa.
+    
+
+#### **NPCs Notáveis**
+
+**1. Gerente Geral Barnaby**
+
+- **Raça:** Um Texugo (_Badger_) idoso, de pelagem grisalha e óculos fundo de garrafa.
+    
+- **Visual:** Veste um colete de brocado que mal fecha na barriga e mangas com protetores de tinta.
+    
+- **Personalidade:** A burocracia em pessoa. Ele não se importa se a cidade está pegando fogo; se o formulário 3B não estiver assinado em triplicata, o cofre não abre. Ele tem uma memória enciclopédica para números e dívidas. Dizem que ele nunca sorriu, exceto uma vez, quando negou um empréstimo a um pirata famoso.
+    
+
+**2. Chefe de Segurança "Tranca" (Lockjaw)**
+
+- **Raça:** Um Rinoceronte de pele grossa e cicatrizes de batalha.
+    
+- **Função:** Monitorar os Golens e a segurança física.
+    
+- **Visual:** Ele usa uma armadura que parece fundida ao corpo e carrega um molho de chaves gigante que serve tanto para abrir portas quanto como mangual (arma).
+    
+- **Personalidade:** Desconfiado e caladão. Ele odeia o sistema pneumático porque "facilita a entrada de bombas", e inspeciona pessoalmente qualquer pacote grande.
+    
+
+**3. Trixie "Centavos" (Penny)**
+
+- **Raça:** Uma Doninha (_Weasel_) ágil e hiperativa.
+    
+- **Função:** Operadora Chefe da Central Pneumática.
+    
+- **Visual:** Usa óculos de aviador e luvas de couro grossas para pegar as cápsulas quentes que chegam.
+    
+- **Personalidade:** Ela trabalha na sala dos tubos (nos fundos). É a fofoqueira financeira. Ela vê quem está mandando dinheiro para quem. Se Hopps precisar saber se Hazel Merkov fez algum pagamento suspeito recentemente, Trixie é a pessoa a ser subornada (provavelmente com doces ou uma peça brilhante).
