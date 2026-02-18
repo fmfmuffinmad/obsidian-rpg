@@ -215,21 +215,46 @@ O urbanismo aqui é impecável e planejado para ostentar a fusão entre riqueza 
 
 #### **Residências Notáveis**
 
-1. **Mansão Hansworth ("O Solar dos Ventos")** A residência da família de Judy e Madeleine Hansworth.
-    
-    - **Arquitetura:** Refletindo a herança **Felina** da família, a mansão é projetada com verticalidade e elegância. Possui grandes terraços abertos, torres com janelas amplas para banhos de sol e passarelas estreitas e altas que conectam as alas da casa (perfeitas para quem tem equilíbrio aguçado).
-        
-    - **Estética:** É decorada com tapeçarias finas que tremulam com a brisa do mar e muitas obras de arte. Diferente da frieza metálica de outras casas, aqui há muita madeira nobre polida e almofadas de seda. O jardim é famoso por suas "árvores-poste", plantas geneticamente modificadas que brilham à noite.
-        
-2. **Mansão Hopkins ("O Pavilhão Mecânico")** A residência da família de Hopps e do desaparecido Hans Hopkins.
-    
-    - **Menção Breve:** Contrasta fortemente com a casa dos Hansworth. É uma estrutura mais robusta, cheia de chaminés de latão (agora frias) e engrenagens decorativas na fachada. As janelas estão fechadas e o jardim, outrora repleto de autômatos jardineiros, está silencioso e crescendo desordenadamente, dando à casa um ar de "gigante adormecido".
-        
-3. **Residência Merkov ("A Torre de Obsidiana")** A casa de Hazel Merkov.
-    
-    - **Arquitetura:** Uma afronta moderna às casas tradicionais. É um bloco angular de pedra negra e vidro fumê, impenetrável aos olhares curiosos. O telhado é coberto por painéis solares de última geração que parecem escamas de um dragão negro. Dizem que a segurança da casa é totalmente automatizada, sem guardas vivos.
-        
+##### **1. Mansão Hansworth ("O Oásis de Pedra")**
 
+Enquanto as outras casas da elite buscam a altura e a frieza do mármore branco e vidro, a casa da família de Judy é uma celebração das suas raízes nômades do deserto, traduzida para o luxo sedentário de uma metrópole.
+
+- **Arquitetura Externa:** A mansão não é uma torre, mas um complexo horizontal feito de **arenito polido** em tons de ocre e terracota.
+    
+    - **Destaque:** O telhado não é de telhas comuns, mas sim uma série de domos de vidro colorido e **tecidos estruturais** reforçados com _arcanite_. De longe, a casa parece um acampamento de tendas luxuosas petrificadas no tempo. Varandas de madeira entalhada projetam-se para fora, cobertas por cortinas de seda que dançam com o vento, nunca ficando paradas.
+        
+- **O Interior ("A Grande Tenda"):** Ao entrar, não se vê corredores estéreis. O saguão principal é um **átrio aberto** com um chão coberto por tapetes sobrepostos de valor inestimável.
+    
+    - **Decoração:** Em vez de cadeiras rígidas, há divãs baixos, almofadas gigantes de veludo e mesas de centro de latão batido. O ar cheira a incenso de sândalo e mirra (para lembrar o deserto).
+        
+    - **Iluminação:** Lanternas de vidro colorido pendem do teto em correntes de ouro, projetando padrões de estrelas e luas nas paredes.
+        
+- **O Pátio Interno (O Riad):** O coração da casa é um jardim interno a céu aberto. Uma fonte central não jorra água para o alto, mas a deixa correr suavemente por canais geométricos no chão, gerando um som relaxante. É aqui que crescem plantas raras de deserto e onde a família se reúne para tocar música ou contar histórias, mantendo a tradição oral.
+    
+- **Solarpunk/Tecnologia:** A casa usa um sistema de "Torres de Vento" (Badgirs) modernizadas. Elas capturam a brisa do oceano e a canalizam para o subsolo, onde é resfriada e enviada para os quartos, mantendo a mansão fresca sem gastar energia.
+    
+
+##### **2. **Mansão Hopkins ("O Pavilhão da Alvorada")**
+
+A casa de Hans Hopkins e Hopps é uma obra-prima de design orgânico e engenharia, lembrando uma estufa gigante e luxuosa fundida com uma catedral.
+
+- **Arquitetura (Art Nouveau):** A estrutura evita ângulos retos. Tudo é curvo e fluido. A fachada é feita de pedra calcária clara e **ferro forjado pintado de verde-musgo**, moldado para parecer cipós e raízes que sustentam a casa.
+    
+    - **O Telhado:** É o destaque. Feito de escamas de vidro iridescente e cobre, tem o formato que lembra as **asas de uma libélula** gigante repousando. Esses painéis de vidro não são apenas decorativos; são coletores solares artísticos que alimentam a casa.
+        
+    - **As Janelas:** Enormes vitrais ovais retratam cenas da evolução científica e da natureza entrelaçadas.
+        
+- **O Interior:** Dentro, a casa parece um organismo vivo. As escadarias em espiral lembram o interior de uma concha (proporção áurea). Os corrimãos são de madeira polida que se torce como galhos.
+    
+    - _O Laboratório Pessoal:_ Diferente da universidade, o laboratório de Hans aqui é "bonito". Bancadas de mogno, instrumentos de latão dourado que parecem joias e um teto de vidro que permite observar as estrelas.
+        
+- **Estado Atual:** A casa está "dormindo". As luzes internas pulsam num ritmo lento e fraco (modo de economia de energia). O portão, feito de ferro torcido no formato de flores mecânicas, está trancado, e trepadeiras reais começaram a crescer sobre as de metal, tornando difícil distinguir onde termina a natureza e começa a arquitetura.
+
+##### **3. Residência Merkov ("A Torre de Obsidiana")**
+
+A casa de Hazel Merkov.
+
+- **Descrição:** Um bloco angular de pedra negra e vidro fumê. É impenetrável e fria. O telhado é coberto por painéis solares negros que lembram escamas. Não há jardins, apenas pátios de cascalho cinza e estátuas modernistas abstratas.
 #### **Serviços Exclusivos da Área**
 
 - **O "Atelier da Pelagem Real" (Royal Fur Atelier):** Uma boutique de moda e estética especializada em bestiais de elite.
