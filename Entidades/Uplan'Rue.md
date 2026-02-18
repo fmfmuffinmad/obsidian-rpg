@@ -565,7 +565,6 @@ O edifício é uma enorme estrutura de tijolos vermelhos reforçados com vigas d
     
 - **Aventureiros Pragmáticos:** Que preferem equipamentos robustos e confiáveis da Guilda em vez das engenhocas experimentais (e frágeis) da Universidade.
     
-
 #### **NPCs Notáveis**
 
 **1. Grão-Mestre Thaddeus Tungstênio**
@@ -595,3 +594,138 @@ O edifício é uma enorme estrutura de tijolos vermelhos reforçados com vigas d
 - **Visual:** Usa roupas à prova de fogo e óculos escuros o tempo todo. Sua gola se abre involuntariamente quando ele fica animado com uma explosão ou fogo.
     
 - **Personalidade:** Um gênio caótico. Ele é responsável pelas invenções mais perigosas da Guilda. Ele idolatrava Hans Hopkins e vive tentando replicar (sem sucesso e com muito perigo) as fontes de energia que Hans usava.
+
+## Locais de Interesse: O Subúrbio, Bairro das Lanternas
+### **A Praça das Flores**
+
+_(O Coração Nostálgico)_
+
+Encravada no centro do **Bairro das Lanternas de Papel**, a Praça das Flores é um choque sensorial para quem vem do centro industrial. O cinza do aço e o cheiro de óleo dão lugar a um festival de cores pastéis e ao perfume adocicado de jasmins, rosas e pão fresco. É o "pulmão" da classe trabalhadora e o local mais seguro e pacífico de toda a cidade.
+
+#### **Descrição do Local**
+
+O urbanismo aqui é antigo, anterior à revolução tecnológica de Uplanrue, e preservado com carinho pelos moradores.
+
+- **As Construções:** A praça é cercada por sobrados de dois ou três andares, espremidos uns contra os outros. Diferente da frieza da pedra nobre, aqui as fachadas são de reboco pintado em tons suaves de **rosa-bebê, ciano, amarelo-manteiga e lavanda**.
+    
+    - _Detalhes:_ As varandas de madeira estão sempre repletas de vasos de plantas e roupas secando ao sol. Cordões com centenas de lanternas de papel coloridas cruzam a praça de um lado ao outro, criando um "teto" de luz quente e difusa durante a noite.
+        
+- **O Piso:** Paralelepípedos antigos, entre os quais crescem musgo aveludado e pequenas flores silvestres que ninguém ousa pisar.
+    
+- **A Fonte da Lebre de Jade:** No centro exato da praça, existe uma fonte esculpida em uma pedra esverdeada (jade impuro ou pedra-sabão). A estátua representa uma lebre em pé, segurando um cântaro de onde jorra água cristalina.
+    
+    - _A Água:_ É potável, gelada e levemente adocicada. Dizem que vem de um lençol freático purificado por raízes ancestrais.
+        
+    - _A Lenda:_ Conforme os costumes locais, casais que bebem da mesma concha de água e se beijam sob a luz da lua diante da fonte têm suas almas entrelaçadas para sempre.
+        
+
+#### **Atmosfera e Cotidiano**
+
+- **Dia (O Mercado):** Pela manhã, a praça é um mercado vibrante, mas silencioso. Não há gritaria. Vende-se flores, ervas medicinais cultivadas em quintais, frutas da estação e artesanato feito à mão (tricô, cerâmica).
+    
+- **Noite (O Baile):** Ao anoitecer, as lanternas se acendem. Músicos de rua tomam seus lugares no coreto de madeira. Não há música eletrônica ou mecânica aqui; apenas violinos, flautas e violões. Casais de todas as idades dançam lentamente sobre os paralelepípedos.
+    
+
+#### **Quem Frequenta?**
+
+- **A Classe Trabalhadora:** Operários que vêm lavar a fuligem da alma antes de voltar para casa.
+    
+- **Casais Apaixonados:** Jovens que não têm dinheiro para o _Refúgio das Brumas_ ou para a _Raposa de Bronze_ vêm aqui para namorar de graça.
+    
+- **Idosos:** Que passam o dia jogando xadrez ou dominó nas mesas de pedra fixas sob as árvores.
+    
+
+#### **NPCs Notáveis**
+
+**1. Dona Petúnia**
+
+- **Raça:** Uma Ovelha (_Sheep_) de lã muito branca e fofa, que usa óculos na ponta do nariz.
+    
+- **Função:** A Florista Mais Antiga.
+    
+- **Personalidade:** Maternal e gentil. Ela conhece a história de amor de todo mundo. Ela viu Hopps e Judy crescerem e brincarem ali. Se Hopps aparecer, ela provavelmente vai oferecer um bolinho de chuva e perguntar "por que ele está tão magrinho". Ela vende buquês com significados secretos (lírios para perdão, rosas para paixão, cravos para saudade).
+    
+
+**2. Maestro "Cigarra" (Fiddle)**
+
+- **Raça:** Um Grilo (_Cricket_) antropomórfico, alto e magro.
+    
+- **Função:** Músico de Rua Residente.
+    
+- **Visual:** Veste um fraque surrado, mas impecável, e toca um violino que parece ser feito de uma casca de noz gigante.
+    
+- **Personalidade:** Melancólico e poético. Ele toca músicas que fazem até os brutamontes do porto chorarem. Ele se recusa a tocar em lugares fechados ou com amplificação mecânica, pois diz que "a música precisa respirar".
+    
+
+**3. Vovô Casca (Shell)**
+
+- **Raça:** Uma Tartaruga Terrestre (_Tortoise_) centenária.
+    
+- **Função:** O Guardião da Memória.
+    
+- **Visual:** Seu casco é decorado com pinturas antigas que estão descascando. Ele está sempre na mesma mesa de xadrez.
+    
+- **Personalidade:** Ele se move e fala muito devagar, mas sua mente é afiada. Ele lembra de como era Uplanrue antes das chaminés e dos dirigíveis. Ele é uma fonte de sabedoria sobre a lenda da fonte e sobre a história da "velha magia" que a cidade tentou esquecer.
+
+### **A Toca do Velho Bode**
+
+_(O Abrigo das Lanternas)_
+
+Localizada numa esquina movimentada do Bairro das Lanternas de Papel, a "Toca" é uma estrutura que desafia a gravidade. É o estabelecimento mais honesto de Uplanrue: aqui não se vendem fantasias de poder como no Porto, nem segredos políticos como na Cidade Alta. Aqui, vende-se calor humano para quem passou o dia no frio das fábricas.
+
+#### **Descrição do Local**
+
+É um prédio de três andares feito inteiramente de madeira reaproveitada de antigas embarcações e dormentes de trem. O prédio parece "torto", inclinando-se levemente para a esquerda, escorado por vigas grossas de carvalho.
+
+- **A Fachada:** Varandas de madeira circundam todos os andares, onde lanternas de papel coloridas pendem do telhado, emitindo uma luz ambarina. As janelas estão quase sempre abertas, e ouve-se risadas, gemidos e conversas misturadas com o som de violão vindo do térreo.
+    
+- **O Interior:** O ar é quente e cheira a ensopado, cerveja barata, perfume de lavanda e suor. O chão é coberto de serragem.
+    
+    - **O Térreo:** Funciona como uma estalagem e bar comunitário.
+        
+    - **Os Quartos (Andares de Cima):** Pequenos, divididos por paredes finas de madeira que rangem. As camas são simples, mas os lençóis estão sempre limpos.
+        
+
+#### **Os Serviços: "Carne e Coração"**
+
+A Toca é, sem rodeios, um bordel barato. Operários, marinheiros e estudantes vêm aqui buscando satisfação física rápida e acessível.
+
+- **A Diferença:** O que torna a Toca famosa não é a habilidade técnica ou a beleza exótica dos acompanhantes, mas a **intimidade emocional**. Muitos patronos, exaustos da solidão da cidade grande, acabam pagando a hora completa não apenas pelo ato sexual, mas para terem alguém que escute seus problemas enquanto dividem um cigarro na beira da cama. É comum ver um estivador brutamontes chorando no colo de uma acompanhante depois do serviço, desabafando sobre as dívidas ou a família distante. A regra da casa é clara: _"O que acontece no quarto, fica no quarto (e no coração)."_
+    
+
+#### **Quem Frequenta?**
+
+- **A Classe Trabalhadora:** A maioria absoluta da clientela.
+    
+- **Aventureiros Iniciantes:** Que precisam de alojamento barato e companhia sem julgamentos.
+    
+- **Nobres Disfarçados (Raros):** De vez em quando, alguém da Coroa de Prata desce até aqui, cansado da falsidade e dos jogos políticos dos bordéis de luxo, buscando apenas uma interação humana genuína e "suja".
+    
+
+#### **NPCs Notáveis**
+
+**1. Mama Bertha**
+
+- **Raça:** Uma Ursa Parda (_Brown Bear_) imensa.
+    
+- **Função:** A Matona e Proprietária.
+    
+- **Personalidade:** Ela gerencia o lugar com punho de ferro e coração de manteiga. Ela protege suas meninas e meninos com violência se necessário. Se um cliente ficar agressivo, ele aprende rapidamente por que ursos são perigosos. Mas, se o cliente tratar os funcionários com respeito, ganha um prato de sopa de graça na saída.
+    
+
+**2. Lana "A Travesseiro"**
+
+- **Raça:** Uma Ovelha (_Sheep_) de lã macia e olhar triste.
+    
+- **Função:** Acompanhante mais popular.
+    
+- **Particularidade:** Lana é muda de nascença. Isso a torna a favorita absoluta para os clientes que precisam desabafar segredos perigosos ou vergonhosos. Eles sabem que podem falar qualquer coisa durante o ato ou depois dele, pois ela literalmente não pode contar a ninguém. Ela é a guardiã silenciosa dos pecados do subúrbio.
+    
+
+**3. Sebastião "O Velho Bode"**
+
+- **Raça:** Um Bode (_Goat_) idoso, caolho e aposentado.
+    
+- **Função:** O Fundador.
+    
+- **Atividade:** Ele passa o dia na varanda tocando um banjo velho. Ele não trabalha mais, mas observa tudo. Ele sabe reconhecer um policial disfarçado ou um cobrador de dívidas a um quarteirão de distância e avisa a Mama Bertha com códigos musicais.
