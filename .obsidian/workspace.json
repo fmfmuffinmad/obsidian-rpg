@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entidades/Corta Corais.md",
+                "file": "Entidades/Uplan'Rue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Corta Corais"
+              "title": "Outline of Uplan'Rue"
             }
           },
           {
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c468c020fc310be",
+  "active": "e670700a24fffcf9",
   "lastOpenFiles": [
     "Entidades/Corta Corais.md",
     "Untitled 4.base",

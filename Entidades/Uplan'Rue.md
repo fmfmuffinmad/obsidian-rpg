@@ -194,9 +194,72 @@ Para dar vida à campanha, Uplanrue não pode ser perfeita. Existem tensões cre
 |**Poder**|Intelectual/Político|Financeiro|Comunitário|Força Bruta|
 
 
+### **Local de Interesse: Universidade de Ciências e Tecnologia de Uplanrue**
 
+_(O Jardim das Engrenagens)_
 
-### **Novo Marco na Coroa de Prata: Refúgio das Brumas (Antigo Palácio de Vapores)**
+Este complexo é o maior orgulho de Uplanrue, uma maravilha da engenharia que combina a natureza com a tecnologia magnética avançada. Diferente das torres arrogantes de outras cidades, a Universidade espalha-se horizontalmente, integrando-se à paisagem.
+
+#### **Descrição do Local**
+
+O campus é formado por uma série de **domos geodésicos** de vidro reforçado e vigas de bronze oxidado (verde-azulado), interligados por tubos de transporte e passarelas suspensas cercadas de vegetação.
+
+- **O Grande Rotor:** No centro do pátio principal, uma turbina colossal flutua silenciosamente via levitação magnética. Ela gira com a brisa do mar e o calor solar, gerando energia limpa para todo o complexo.
+    
+- **Biblioteca Memorial Cornelius Cogsworth:** Um salão vasto que lembra uma estação de trem vitoriana. Não há escadas; trilhos magnéticos percorrem o teto e o chão. Quando um livro é solicitado, braços mecânicos viajam pelos trilhos, buscam o volume nas estantes quilométricas e o entregam suavemente via tubos de vácuo.
+    
+
+#### **Áreas Específicas**
+
+1. **Laboratório de Componentes Mecânicos ("A Forja de Precisão"):** Um galpão imenso com teto de vidro. Braços mecânicos industriais descem do teto para auxiliar na montagem de chassis pesados.
+    
+    - _Foco:_ Desenvolvimento de próteses avançadas, autômatos civis e motores de combustão solar. O chão é uma grelha metálica para coletar limalha e peças descartadas.
+        
+2. **Laboratório de Compostos Alquímicos ("O Arboreto Químico"):** Parece uma estufa futurista. Milhares de tubos de vidro transparente percorrem as paredes, transportando fluidos coloridos que são aquecidos por lentes solares.
+    
+    - _Foco:_ Refino de biocombustíveis, criação de polímeros resistentes e estudos de botânica acelerada.
+        
+3. **O Setor Restrito ("Nível Ômega"):** Localizado no subsolo, este setor é revestido de chumbo e cobre para isolamento magnético. O acesso é rigorosamente controlado por cartões perfurados de ouro. É aqui que são guardados os protótipos instáveis e as tecnologias que o Conselho considera "estratégicas" ou perigosas demais para o público.
+    
+
+#### **Quem Frequenta?**
+
+- **Engenheiros Naturalistas:** Estudantes focados em criar tecnologia que não agrida o meio ambiente.
+    
+- **A Nobreza Progressista:** Jovens da Coroa de Prata que veem na ciência o futuro da cidade.
+    
+- **Pacientes de Elite:** Buscando tratamentos médicos que a magia tradicional não consegue resolver.
+    
+
+#### **NPCs Notáveis**
+
+**1. Reitora Valeriana Van Der Bolt**
+
+- **Raça:** Coruja-das-Neves (_Aven_).
+    
+- **Função:** Reitora Geral.
+    
+- **Personalidade:** Visionária, estrita e pragmática. Ela carrega uma bengala que funciona como uma chave-mestra sônica. Seu objetivo é tornar Uplanrue a primeira cidade autossustentável do mundo, e ela não tolera atrasos ou superstições "mágicas" em seus corredores.
+    
+
+**2. Dr. Lucius Dorset**
+
+- **Raça:** Texugo.
+    
+- **Função:** Chefe do Departamento de Medicina Bio-Mecânica.
+    
+- **Personalidade:** Um pilar da comunidade médica. Sério, ético e extremamente competente. Ele é famoso por realizar cirurgias consideradas impossíveis, restaurando a mobilidade de pacientes com próteses integradas ao sistema nervoso. Ele tratou de Madeleine Hansworth com dedicação absoluta, e sua falha em curá-la é um peso silencioso que ele carrega com dignidade profissional.
+    
+
+**3. Mestra "Catraca" (Ratchet)**
+
+- **Raça:** Castora.
+    
+- **Função:** Chefe da Engenharia Mecânica.
+    
+- **Personalidade:** Prática e direta. Vive com óculos de solda na testa e as mãos sujas de graxa. Ela é a gênio por trás dos sistemas de manutenção da cidade e tem pouca paciência para teoria sem prática.
+
+### **Local de Interesse: Refúgio das Brumas (Antigo Palácio de Vapores)**
 
 Embora oficialmente listado nos registros da cidade como um **Spa e Casa de Banhos Terapêuticos** de alto padrão, frequentado pela elite para relaxar nas águas aquecidas por núcleos de arcanite, o _Refúgio das Brumas_ é o segredo mais mal guardado da alta sociedade.
 
