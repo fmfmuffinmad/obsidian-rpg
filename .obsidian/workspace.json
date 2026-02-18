@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entidades/Corta Corais.md",
+                "file": "Entidades/Uplan'Rue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corta Corais"
+              "title": "Uplan'Rue"
             }
           }
         ],
@@ -195,6 +195,7 @@
   },
   "active": "7c468c020fc310be",
   "lastOpenFiles": [
+    "Entidades/Corta Corais.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Entidades/Madeleine Hansworth.md",
@@ -240,7 +241,6 @@
     "Notes",
     "Midia/Imagens/Locais",
     "Midia/Imagens/Entidades/Olho Cinza",
-    "Midia",
     "Untitled.canvas"
   ]
 }
