@@ -729,3 +729,64 @@ A Toca é, sem rodeios, um bordel barato. Operários, marinheiros e estudantes v
 - **Função:** O Fundador.
     
 - **Atividade:** Ele passa o dia na varanda tocando um banjo velho. Ele não trabalha mais, mas observa tudo. Ele sabe reconhecer um policial disfarçado ou um cobrador de dívidas a um quarteirão de distância e avisa a Mama Bertha com códigos musicais.
+
+### **A Área Residencial (A Vila Colonial)**
+
+Ao cruzar a ponte que separa o Centro Comercial do subúrbio, o barulho das engrenagens desaparece. O Bairro das Lanternas não parece uma extensão da metrópole industrial; parece uma pequena cidade do interior congelada no tempo, onde a vida é pacata, limpa e tradicional.
+
+#### **Arquitetura e Urbanismo**
+
+- **O Estilo Colonial:** As ruas são largas e pavimentadas com pedras de rio redondas, varridas todas as manhãs pelos próprios moradores. As casas são térreas ou sobrados baixos, feitas de adobe caiado de um branco impecável. O charme vem dos **batentes de madeira** das janelas e portas, pintados em cores vivas (azul-royal, amarelo-açafrão, verde-floresta).
+    
+- **Telhados e Varandas:** Todas as casas possuem telhados de telha de barro laranja e varandas frontais espaçosas. É comum ver os moradores sentados em cadeiras de balanço no final da tarde, apenas cumprimentando quem passa.
+    
+- **Jardins Frontais:** Cercas baixinhas de madeira branca separam os jardins da rua. Não há muros altos. Roseiras, hortênsias e pés de jasmim são cultivados com orgulho, perfumando a rua inteira.
+    
+
+#### **Tecnologia e Cotidiano**
+
+O bairro rejeita a poluição visual da tecnologia moderna.
+
+- **Iluminação:** À noite, a luz vem de lampiões a óleo ou velas de cera dentro das lanternas de papel coloridas penduradas nas varandas. A luz é dourada e trêmula, criando uma atmosfera acolhedora.
+    
+- **Água:** A água é retirada de poços artesianos individuais ou de bombas manuais de ferro fundido localizadas nas esquinas.
+    
+- **A Vida Doméstica:** A fumaça que sai das chaminés de tijolo tem cheiro de lenha de macieira e café fresco. As refeições são preparadas em fogões a lenha dentro das cozinhas espaçosas, mantendo a tradição da "comida de vó".
+    
+
+#### **Pontos de Convivência**
+
+- **O Coreto de Leitura:** Um pequeno pavilhão de madeira no centro de uma praça gramada. Como jornais são caros, um morador alfabetizado costuma ler as notícias do dia em voz alta para os vizinhos ali reunidos antes do jantar.
+    
+
+#### **NPCs Notáveis (Apenas Porcos, Gatos, Coelhos e Aves)**
+
+**1. Tia Marisol**
+
+- **Raça:** Uma **Porca** (_Pig_) de pele rosada e aparência impecável.
+    
+- **Função:** A Guardiã da Ordem (Síndica Moral).
+    
+- **Visual:** Veste sempre um avental engomado sem nenhuma mancha.
+    
+- **Personalidade:** Ela é a autoridade máxima da rua. Se a cerca da sua casa estiver descascando, ela vai bater na sua porta com uma lata de tinta e um sorriso que não aceita "não" como resposta. Ela conhece Hopps desde bebê e lamenta que ele tenha ido "brincar de cientista" em vez de casar e sossegar.
+    
+
+**2. Os Gêmeos "Pio" e "Pluma"**
+
+- **Raça:** Duas **Gralhas-Azuis** (_Birds/Jays_) adolescentes.
+    
+- **Função:** Entregadores de Jornal e Correio.
+    
+- **Visual:** Vestem boinas e suspensórios. Andam em bicicletas antigas, jogando jornais nas varandas com precisão aérea.
+    
+- **Atividade:** Eles são os olhos do bairro. Do alto dos telhados ou voando baixo nas bicicletas, nada escapa à visão deles. Se um estranho entra na vila, eles já avisaram três quarteirões antes.
+    
+
+**3. Vovó Dália**
+
+- **Raça:** Uma **Coelha** (_Rabbit_) muito idosa, com o pelo totalmente branco.
+    
+- **Função:** A Tricoteira da Varanda.
+    
+- **Atividade:** Ela passa o dia na cadeira de balanço tricotando colchas de retalhos. Dizem que ela tricotou o primeiro cobertor de Hopps. Ela é a memória viva da cidade e sabe a árvore genealógica de todo mundo.
