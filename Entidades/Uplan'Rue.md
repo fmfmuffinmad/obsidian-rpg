@@ -459,3 +459,139 @@ A segurança não é feita por guardas vivos que podem ser subornados ou dormir 
 - **Visual:** Usa óculos de aviador e luvas de couro grossas para pegar as cápsulas quentes que chegam.
     
 - **Personalidade:** Ela trabalha na sala dos tubos (nos fundos). É a fofoqueira financeira. Ela vê quem está mandando dinheiro para quem. Se Hopps precisar saber se Hazel Merkov fez algum pagamento suspeito recentemente, Trixie é a pessoa a ser subornada (provavelmente com doces ou uma peça brilhante).
+
+### **A Raposa de Bronze**
+
+_(O Palco do Vapor)_
+
+Localizada na esquina mais movimentada do distrito, a Raposa de Bronze nunca dorme. Diferente do sigilo do _Refúgio das Brumas_, aqui a regra é o **Espetáculo**. É uma mistura de _saloon_, casa de shows e bordel de luxo acessível.
+
+#### **Descrição do Local**
+
+- **A Fachada:** Impossível de ignorar. Um letreiro gigantesco, animado por mecanismos de relógio e tubos de neon a gás (violeta e laranja), mostra uma raposa piscando o olho e levantando uma taça. Vapor colorido é solto periodicamente pelas "narinas" da entrada para atrair clientes.
+    
+- **O Salão Principal:** Um espaço amplo com pé-direito duplo. O ar cheira a charuto doce, perfume barato e cerveja de qualidade.
+    
+    - **Decoração:** O estilo é "Industrial Chic". As colunas são de ferro fundido pintado de dourado, as cortinas são de veludo vermelho pesado (para abafar o som) e as mesas são iluminadas por pequenas lâmpadas de cristal arcanite.
+        
+    - **O Palco Hidráulico:** O centro das atenções. O palco possui plataformas giratórias e elevadores que permitem que os artistas surjam do chão em meio a nuvens de fumaça. Uma banda de _Jazz-Mecânico_ (com autômatos tocando bateria e sopros) toca ao fundo quase 24h por dia.
+        
+- **O "Poleiro" (Mezanino):** O segundo andar é uma sacada aberta que circunda o salão. Ali ficam as cabines privativas (com cortinas que podem ser fechadas, mas geralmente ficam abertas para mostrar quem está pagando champanhe caro). É onde funciona a parte de bordel e encontros casuais.
+    
+
+#### **Quem Frequenta?**
+
+- **Mercadores e Capitães:** Celebrando a chegada de navios ou o fechamento de grandes contratos no Banco.
+    
+- **Estudantes "Rebeldes":** Jovens da Universidade que querem fugir da rigidez acadêmica e gastar a mesada dos pais.
+    
+- **Artistas e Bardos:** Buscando uma chance de subir no palco principal e serem descobertos por um mecenas.
+    
+- **Aventureiros:** É o ponto de encontro padrão para formar grupos ou gastar espólios de masmorras.
+    
+
+#### **NPCs Notáveis**
+
+**1. Madame Vixie**
+
+- **Raça:** Uma Raposa Vermelha (_Red Fox_) de pelagem vibrante e olhos verdes astutos.
+    
+- **Visual:** Veste espartilhos de couro apertados, muitas plumas e joias que brilham muito (algumas reais, outras vidro). Ela carrega um leque que esconde uma adaga na ponta.
+    
+- **Personalidade:** Carismática, barulhenta e maternal com seus funcionários. Ela ama heróis. Se você tiver uma boa história de batalha, a primeira rodada é por conta da casa.
+    
+    - _Conexão com a Lore:_ Vixie mantém uma **Mesa Reservada** permanentemente vazia perto do palco. Há uma placa de latão nela: _"Para as Espadas da Lua Negra - A conta está paga"_. É um sinal de respeito aos antigos heróis, e ela pode se emocionar se souber que Hopps ou alguém do grupo está tentando reviver a guilda.
+        
+
+**2. "Pistão" (Piston)**
+
+- **Raça:** Um Búfalo albino gigantesco.
+    
+- **Função:** Bartender Chefe e Leão de Chácara.
+    
+- **Visual:** Ele tem um braço mecânico a vapor (substituindo um braço perdido) que ele usa para agitar coqueteleiras com velocidade sobre-humana ou para quebrar mesas quando há briga.
+    
+- **Personalidade:** Fala pouco, ouve tudo. Ele prepara o drink assinatura da casa: a _"Graxa Doce"_ (um licor de café com consistência de xarope e alto teor alcoólico).
+    
+
+**3. Lola "A Sereia de Penas"**
+
+- **Raça:** Uma Arara-Vermelha (_Scarlet Macaw_) deslumbrante.
+    
+- **Função:** A estrela do show. Cantora e dançarina principal.
+    
+- **Personalidade:** Divina e temperamental. Ela é a celebridade local. Metade da cidade é apaixonada por ela. Ela tem ouvidos em todos os lugares (literalmente, pois seus fãs contam tudo para ela). Se o grupo precisar atrair a atenção de um nobre ou criminoso que está na plateia, convencer Lola a dedicar uma música a essa pessoa é o caminho mais rápido.
+    
+
+#### **Ideias de Interações e Ganchos**
+
+- **O Torneio de Bebidas:** Toda sexta-feira, acontece o "Desafio do Pistão". Quem conseguir beber três doses da _"Reserva Especial do Búfalo"_ (que brilha no escuro e solta fumaça) sem desmaiar, ganha o direito de ter seu nome gravado numa placa de bronze na parede e bebida grátis por um mês. É uma ótima maneira de ganhar fama rápida no submundo.
+    
+- **O Espião Descuidado:** Um funcionário da Guilda dos Artífices bebeu demais e está se gabando em voz alta sobre um mapa de rotas de transporte de cristais que ele carrega no bolso. O grupo precisa pegar o mapa antes que os batedores de carteira da _Raposa_ o façam.
+    
+- **A Audição:** Vixie está procurando uma nova atração para a noite de sábado. Se o grupo tiver um bardo ou alguém com talento exótico, eles podem se apresentar. O prêmio é o acesso ao "Livro Negro" de Vixie, onde ela anota os rumores mais quentes da cidade.
+
+### **Guilda dos Artífices de Uplanrue**
+
+_(A Grande Forja)_
+
+Este é o local onde a tecnologia deixa de ser um experimento de laboratório e se torna um produto para o mundo. É um ambiente barulhento, quente e vibrante, onde o respeito não se ganha com teses acadêmicas, mas com a habilidade de fazer uma máquina funcionar sob pressão.
+
+#### **Descrição do Local**
+
+O edifício é uma enorme estrutura de tijolos vermelhos reforçados com vigas de aço externas, lembrando uma fábrica vitoriana, mas com melhoramentos solarpunk.
+
+- **A Fachada:** Possui janelas circulares gigantescas (como escotilhas) que brilham com a luz das fornalhas internas dia e noite. O telhado é coberto por exaustores de cobre que liberam vapor branco e limpo (resultado do resfriamento dos motores), criando uma névoa constante ao redor do prédio.
+    
+- **O Símbolo:** Acima da entrada principal, um enorme martelo mecânico move-se ritmicamente, batendo numa bigorna de bronze a cada hora cheia, servindo como o relógio oficial do distrito.
+    
+- **O Interior ("A Sinfonia de Aço"):** Ao entrar, o visitante é atingido por uma parede sonora: o clangor de metal contra metal, o silvo de vapor e o zumbido de serras elétricas. O espaço é um vão livre gigantesco, cruzado por pontes rolantes e esteiras transportadoras que levam peças de um lado para o outro. O cheiro é uma mistura de ozônio, óleo lubrificante e madeira serrada.
+    
+
+#### **Áreas Internas**
+
+1. **O Salão de Montagem:** O chão de fábrica. Aqui, centenas de artífices trabalham em bancadas individuais ou em linhas de montagem para construir desde relógios de bolso e torradeiras automáticas até motores de navios.
+    
+2. **O Showroom (A Galeria das Invenções):** A única área silenciosa e limpa. É uma loja de frente para a rua onde os produtos finalizados são expostos para compradores. Prateleiras de vidro exibem próteses estéticas, armas de pressão e brinquedos mecânicos complexos.
+    
+3. **O Pátio de Testes (A "Caixa de Areia"):** Uma área nos fundos, cercada por muros blindados, onde veículos, explosivos de mineração e autômatos de combate são testados. O chão é chamuscado e cheio de crateras.
+    
+
+#### **Quem Frequenta?**
+
+- **Comerciantes Atacadistas:** Que compram lotes de invenções para revender em outras cidades.
+    
+- **Capitães de Navio e Dirigível:** Buscando reparos urgentes ou upgrades para suas embarcações.
+    
+- **Aventureiros Pragmáticos:** Que preferem equipamentos robustos e confiáveis da Guilda em vez das engenhocas experimentais (e frágeis) da Universidade.
+    
+
+#### **NPCs Notáveis**
+
+**1. Grão-Mestre Thaddeus Tungstênio**
+
+- **Raça:** Uma Morsa (_Walrus_) imensa e bigoduda.
+    
+- **Visual:** Ele usa um avental de couro grosso sobre o peito nu (marcado por pequenas queimaduras de faíscas) e carrega um martelo que a maioria das pessoas não conseguiria levantar. Ele tem uma perna mecânica feita de bronze maciço que faz um som pesado ("TUM-clack") quando ele anda.
+    
+- **Personalidade:** Um veterano da velha guarda. Ele acredita que "se não tem peso, não tem valor". Ele respeita a Universidade, mas acha os acadêmicos "moles". Para ele, uma invenção só é boa se você puder derrubá-la de um prédio e ela continuar funcionando.
+    
+
+**2. Mestra de Vendas "Dona Porca" (Nut)**
+
+- **Raça:** Um Porco-espinho (_Porcupine_) fêmea, com os espinhos decorados com arruelas e porcas de metal.
+    
+- **Função:** Gerente do Showroom e Tesoureira.
+    
+- **Personalidade:** Afiada e negociadora implacável. Ela fala rápido e não dá descontos. Se você quebrar algo na loja dela, você comprou (e ela vai cobrar o dobro). Ela é quem mantém a Guilda financeiramente estável, equilibrando os gastos excessivos dos inventores.
+    
+
+**3. Jinx "O Maçarico"**
+
+- **Raça:** Um Lagarto-de-Gola (_Frilled Lizard_) hiperativo.
+    
+- **Função:** Especialista em Solda e Alta Temperatura.
+    
+- **Visual:** Usa roupas à prova de fogo e óculos escuros o tempo todo. Sua gola se abre involuntariamente quando ele fica animado com uma explosão ou fogo.
+    
+- **Personalidade:** Um gênio caótico. Ele é responsável pelas invenções mais perigosas da Guilda. Ele idolatrava Hans Hopkins e vive tentando replicar (sem sucesso e com muito perigo) as fontes de energia que Hans usava.
