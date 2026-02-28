@@ -46,9 +46,21 @@
               "icon": "lucide-image",
               "title": "Hopps-full-1"
             }
+          },
+          {
+            "id": "ff73c2299368cce0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0856416e6732d84",
+  "active": "ff73c2299368cce0",
   "lastOpenFiles": [
     "Entidades/Johnathan Hopkins.md",
     "Pasted image 20251025134648.png",
