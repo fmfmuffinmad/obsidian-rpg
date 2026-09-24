@@ -72,9 +72,21 @@
               "icon": "lucide-file",
               "title": "Carta de Brumadouro para Judy"
             }
+          },
+          {
+            "id": "9297332fb36d142f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -231,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d6217858e8db956",
+  "active": "9297332fb36d142f",
   "lastOpenFiles": [
     "Carta de Brumadouro para Judy.md",
     "Entidades/Johnathan Hopkins.md",
